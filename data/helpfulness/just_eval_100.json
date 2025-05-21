@@ -1,0 +1,902 @@
+[
+    {
+        "id": 9,
+        "source_id": "alpaca_eval-10",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+        "response": "N/A"
+    },
+    {
+        "id": 36,
+        "source_id": "alpaca_eval-38",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+        "response": "N/A"
+    },
+    {
+        "id": 38,
+        "source_id": "alpaca_eval-40",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "When was Canada colonized?",
+        "response": "N/A"
+    },
+    {
+        "id": 40,
+        "source_id": "alpaca_eval-42",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+        "response": "N/A"
+    },
+    {
+        "id": 41,
+        "source_id": "alpaca_eval-43",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is Gremolata?",
+        "response": "N/A"
+    },
+    {
+        "id": 43,
+        "source_id": "alpaca_eval-45",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "what should i build a cabin out of?",
+        "response": "N/A"
+    },
+    {
+        "id": 46,
+        "source_id": "alpaca_eval-49",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How do I take care of a wooden table?",
+        "response": "N/A"
+    },
+    {
+        "id": 50,
+        "source_id": "alpaca_eval-54",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Hi, I'm in the mood for a Bloody Mary. Can you give me a recipe for making one?",
+        "response": "N/A"
+    },
+    {
+        "id": 51,
+        "source_id": "alpaca_eval-55",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What are some famous world music artists?",
+        "response": "N/A"
+    },
+    {
+        "id": 58,
+        "source_id": "alpaca_eval-65",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How can I make bubble solution?",
+        "response": "N/A"
+    },
+    {
+        "id": 63,
+        "source_id": "alpaca_eval-71",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Who was the first lead vocal for the rock band Starship?",
+        "response": "N/A"
+    },
+    {
+        "id": 77,
+        "source_id": "alpaca_eval-88",
+        "dataset": "helpful_base",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is kevlar made out of?",
+        "response": "N/A"
+    },
+    {
+        "id": 121,
+        "source_id": "alpaca_eval-184",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "write description for 925 sterling silver miami cuban link chain",
+        "response": "N/A"
+    },
+    {
+        "id": 125,
+        "source_id": "alpaca_eval-189",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What if people only valued and took pride in the things that were true about themselves?",
+        "response": "N/A"
+    },
+    {
+        "id": 130,
+        "source_id": "alpaca_eval-197",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "when are hops added to the brewing process?",
+        "response": "N/A"
+    },
+    {
+        "id": 132,
+        "source_id": "alpaca_eval-202",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Write a daily exercise routine for Monday to Sunday with a rest day in between, each day summarized in 160 characters or less",
+        "response": "N/A"
+    },
+    {
+        "id": 137,
+        "source_id": "alpaca_eval-215",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "what are some basics of nutrition that i should be aware of",
+        "response": "N/A"
+    },
+    {
+        "id": 142,
+        "source_id": "alpaca_eval-223",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "i'm working on a spatial analysis project and am looking for questions I can answer with it related housing and crime analysis, do you have suggestions? ",
+        "response": "N/A"
+    },
+    {
+        "id": 149,
+        "source_id": "alpaca_eval-232",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "is a bannana a fruit or a herb",
+        "response": "N/A"
+    },
+    {
+        "id": 150,
+        "source_id": "alpaca_eval-233",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why did the building of a pipeline have to be voted on by the government(USA)? Doesn't this infringe on government interfering with private corporations?<br>",
+        "response": "N/A"
+    },
+    {
+        "id": 155,
+        "source_id": "alpaca_eval-241",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What niches are not being fulfilled on the YouTube platform?",
+        "response": "N/A"
+    },
+    {
+        "id": 159,
+        "source_id": "alpaca_eval-249",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "who does lady gaga play in american horror story",
+        "response": "N/A"
+    },
+    {
+        "id": 168,
+        "source_id": "alpaca_eval-265",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Give me the list of top 100 tech categories",
+        "response": "N/A"
+    },
+    {
+        "id": 171,
+        "source_id": "alpaca_eval-276",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Write me the first act of a play in Shakespearian style about a porcupine named Prickles who wants to be a seamstress",
+        "response": "N/A"
+    },
+    {
+        "id": 174,
+        "source_id": "alpaca_eval-280",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Can a qualifying manager work remotely abroad for US employer for an year be eligible for Eb1-C while on h1-b",
+        "response": "N/A"
+    },
+    {
+        "id": 175,
+        "source_id": "alpaca_eval-282",
+        "dataset": "koala",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Write a funny, interesting, inspiring poem for Women's Day.",
+        "response": "N/A"
+    },
+    {
+        "id": 177,
+        "source_id": "alpaca_eval-285",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What do you think about ChatGPT?",
+        "response": "N/A"
+    },
+    {
+        "id": 185,
+        "source_id": "alpaca_eval-297",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "which libraries are the best for developing deep learning scripts in python?",
+        "response": "N/A"
+    },
+    {
+        "id": 189,
+        "source_id": "alpaca_eval-308",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why so many people like film photography when digital camera and mobile phone are more convenient and generate higher quality of photos?",
+        "response": "N/A"
+    },
+    {
+        "id": 204,
+        "source_id": "alpaca_eval-341",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Can you help me understand how I can estimate the variance of a variable?",
+        "response": "N/A"
+    },
+    {
+        "id": 206,
+        "source_id": "alpaca_eval-346",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How do polar bears stay warm in Arctic winters?",
+        "response": "N/A"
+    },
+    {
+        "id": 212,
+        "source_id": "alpaca_eval-356",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why does the second batch of pancakes brown much faster?",
+        "response": "N/A"
+    },
+    {
+        "id": 221,
+        "source_id": "alpaca_eval-375",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Is a thumb war violent?",
+        "response": "N/A"
+    },
+    {
+        "id": 224,
+        "source_id": "alpaca_eval-383",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why can time seem to slow down in dangerous situations?",
+        "response": "N/A"
+    },
+    {
+        "id": 237,
+        "source_id": "alpaca_eval-401",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Can I compile python code to make it faster?",
+        "response": "N/A"
+    },
+    {
+        "id": 241,
+        "source_id": "alpaca_eval-407",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is the james webb telescope",
+        "response": "N/A"
+    },
+    {
+        "id": 246,
+        "source_id": "alpaca_eval-418",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What's the furthest back we can prove human existence? Is there good reason to believe it goes further then this point?",
+        "response": "N/A"
+    },
+    {
+        "id": 270,
+        "source_id": "alpaca_eval-460",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Can you tell me how to format an url in rst?",
+        "response": "N/A"
+    },
+    {
+        "id": 275,
+        "source_id": "alpaca_eval-467",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is the best way to form a new habit?",
+        "response": "N/A"
+    },
+    {
+        "id": 276,
+        "source_id": "alpaca_eval-468",
+        "dataset": "oasst",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Hi. I want to make an embossed picture for my blind girlfriend. There is a Braille printer at my university that I can use. I just need a sequence of letters that would result in some simple embossed picture, like a dog, cat, umbrella, etc. Can you give me a such text?",
+        "response": "N/A"
+    },
+    {
+        "id": 282,
+        "source_id": "alpaca_eval-485",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "You are given an algorithm or a search query about coding. Look for a code snippet related to the search query.\n\nPython loop",
+        "response": "N/A"
+    },
+    {
+        "id": 292,
+        "source_id": "alpaca_eval-513",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is the output of the given LATEX code?\n\n\\documentclass{article}\n\\begin{document}\nFirst document. This is a simple example, with no \nextra parameters or packages included.\n\\end{document}",
+        "response": "N/A"
+    },
+    {
+        "id": 305,
+        "source_id": "alpaca_eval-550",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Write a step-by-step guide for resolving GitHub merge conflicts.",
+        "response": "N/A"
+    },
+    {
+        "id": 328,
+        "source_id": "alpaca_eval-599",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Give a grammar tip on how to end a German verb.",
+        "response": "N/A"
+    },
+    {
+        "id": 333,
+        "source_id": "alpaca_eval-608",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Think of a motivational quote that you have read in a book. Try to keep it positive and sweet.",
+        "response": "N/A"
+    },
+    {
+        "id": 336,
+        "source_id": "alpaca_eval-612",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Indicate the genre of the book to which it belongs.\n\nLove in the Time of Cholera",
+        "response": "N/A"
+    },
+    {
+        "id": 339,
+        "source_id": "alpaca_eval-616",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Verify the correctness of the given statement.\n\n\"For all integers j and k, if j and k are odd, then jk is odd.\"",
+        "response": "N/A"
+    },
+    {
+        "id": 344,
+        "source_id": "alpaca_eval-628",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "The last message in the chat is a partial response. You should complete and rewrite it.\n\n+ What are going to do now?\n- I don't know. I had to give up my dream of being a mathematician.\n+ Why",
+        "response": "N/A"
+    },
+    {
+        "id": 349,
+        "source_id": "alpaca_eval-649",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Answer the question about the paper after reading it carefully.\n\nTo evaluate if the Transformer can generalize to other tasks we performed experiments on English constituency parsing. This task presents specific challenges: the output is subject to strong structural constraints and is significantly longer than the input. Furthermore, RNN sequence-to-sequence models have not been able to attain state-of-the-art results in small-data regimes.\nQuestion: What is English constituency parsing?",
+        "response": "N/A"
+    },
+    {
+        "id": 352,
+        "source_id": "alpaca_eval-658",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "The story of a movie has been described using many emojis. You need to guess the name of the movie based on the emojis.\n\n🧙‍♂️🚪📚🦅⚡",
+        "response": "N/A"
+    },
+    {
+        "id": 368,
+        "source_id": "alpaca_eval-694",
+        "dataset": "selfinstruct",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Make a list of the pros and cons of the given decision.\n\nImplementing a Remote Working Policy",
+        "response": "N/A"
+    },
+    {
+        "id": 393,
+        "source_id": "alpaca_eval-728",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How can I increase my productivity while working from home?",
+        "response": "N/A"
+    },
+    {
+        "id": 397,
+        "source_id": "alpaca_eval-734",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What are the most effective strategies for conflict resolution in the workplace?",
+        "response": "N/A"
+    },
+    {
+        "id": 406,
+        "source_id": "alpaca_eval-747",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "If you were a Shakespearean character, how would you declare your love for someone in a soliloquy?",
+        "response": "N/A"
+    },
+    {
+        "id": 407,
+        "source_id": "alpaca_eval-748",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "As a superhero, how would you explain your origin story to a curious child?",
+        "response": "N/A"
+    },
+    {
+        "id": 409,
+        "source_id": "alpaca_eval-753",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "As a space colonist on Mars, describe your daily life and the challenges you face living on another planet.",
+        "response": "N/A"
+    },
+    {
+        "id": 410,
+        "source_id": "alpaca_eval-756",
+        "dataset": "vicuna",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What are some subtle clues that suggest someone is pretending to understand a topic or conversation when they are actually confused or uninformed?",
+        "response": "N/A"
+    },
+    {
+        "id": 421,
+        "source_id": "lima-1",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I have an exercise in game of theory class that I should find all equilibriums in rock paper scissors game. Could you help me with this exercise?",
+        "response": "N/A"
+    },
+    {
+        "id": 446,
+        "source_id": "lima-26",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I'm interviewing as an out-of-college engineer for a bunch of tech companies and have started getting offers from a couple of them, including FAANG. What would be considered a good offer in terms of compensation?",
+        "response": "N/A"
+    },
+    {
+        "id": 453,
+        "source_id": "lima-33",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why do my fiddle fig leaves look yellow?",
+        "response": "N/A"
+    },
+    {
+        "id": 462,
+        "source_id": "lima-42",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I'm building a world for a new RPG. It's set in the near future, e.g. 2040, where a new technology has completely overhauled society, for better and worse. Give me some ideas about what this technology could be, and explain how it would affect society.",
+        "response": "N/A"
+    },
+    {
+        "id": 466,
+        "source_id": "lima-46",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What are the best birthday gifts for an acquaintance that I don't know very well?",
+        "response": "N/A"
+    },
+    {
+        "id": 470,
+        "source_id": "lima-50",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What language family does Hungarian belong to?",
+        "response": "N/A"
+    },
+    {
+        "id": 481,
+        "source_id": "lima-61",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I have 350 examples that were annotated with binary labels by two different annotators. How do I compute inter-annotator agreement, including confidence interval?",
+        "response": "N/A"
+    },
+    {
+        "id": 497,
+        "source_id": "lima-77",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I'm a teacher and I've been teaching a student named Kate for a few months. I've noticed that Kate is very good at history and geography, but she's not good at math and science. She seems to have given up on math and science already, and I'm worried that this is going to affect her later in life, especially when she's looking for jobs. Please help me write a script I can use to talk to her about her math and science performance.",
+        "response": "N/A"
+    },
+    {
+        "id": 503,
+        "source_id": "lima-83",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I'm feeling a bit lonely these days, how can I make new friends?",
+        "response": "N/A"
+    },
+    {
+        "id": 504,
+        "source_id": "lima-84",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Which is the best version of the board game Settlers of Catan?",
+        "response": "N/A"
+    },
+    {
+        "id": 511,
+        "source_id": "lima-91",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I want to find a great school district to live in. I have a list of cities I would consider, but I am looking for a city with a great school district. What would you recommend?",
+        "response": "N/A"
+    },
+    {
+        "id": 512,
+        "source_id": "lima-92",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "The year is 2025. Can you write an article about the new iPhone 17?",
+        "response": "N/A"
+    },
+    {
+        "id": 513,
+        "source_id": "lima-93",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How's the weather in London right now?",
+        "response": "N/A"
+    },
+    {
+        "id": 516,
+        "source_id": "lima-96",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How can I improve my time management skills?",
+        "response": "N/A"
+    },
+    {
+        "id": 529,
+        "source_id": "lima-109",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What are the most effective strategies for conflict resolution in the workplace?",
+        "response": "N/A"
+    },
+    {
+        "id": 531,
+        "source_id": "lima-111",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Why are there \"bad school districts\" and \"good school districts\" in the US, assuming that the government works hard to increase education standards?",
+        "response": "N/A"
+    },
+    {
+        "id": 539,
+        "source_id": "lima-119",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How can governments utilize fiscal and monetary policies to combat economic recessions?",
+        "response": "N/A"
+    },
+    {
+        "id": 547,
+        "source_id": "lima-127",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How do cultural, social, and economic factors influence people's food choices, and how can this knowledge be used to promote healthier diets?",
+        "response": "N/A"
+    },
+    {
+        "id": 563,
+        "source_id": "lima-143",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "In a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?",
+        "response": "N/A"
+    },
+    {
+        "id": 565,
+        "source_id": "lima-145",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How many text messages are sent globally in a minute? Show me how you go about estimating this number.",
+        "response": "N/A"
+    },
+    {
+        "id": 572,
+        "source_id": "lima-152",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What if, instead of his phenomenal discoveries in mathematics and physics, Isaac Newton had made breakthroughs in biology instead?",
+        "response": "N/A"
+    },
+    {
+        "id": 574,
+        "source_id": "lima-154",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Write a Python function to sort a list of integers.",
+        "response": "N/A"
+    },
+    {
+        "id": 577,
+        "source_id": "lima-157",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "While using ```new_list = my_list```, any modifications to ```new_list``` changes ```my_list``` every time. Why is this, and how can I clone or copy the list to prevent it?",
+        "response": "N/A"
+    },
+    {
+        "id": 616,
+        "source_id": "lima-196",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Imagine that instead of presidential debates, we had rap battles. Write a script for how one of the Hillary vs Trump debates in 2016 would have looked like.",
+        "response": "N/A"
+    },
+    {
+        "id": 619,
+        "source_id": "lima-199",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What would have happened if the South won the Civil War?",
+        "response": "N/A"
+    },
+    {
+        "id": 621,
+        "source_id": "lima-201",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I'm writing a cryptic crossword. What is a good cryptic clue for the word \"flamingo\"? ",
+        "response": "N/A"
+    },
+    {
+        "id": 629,
+        "source_id": "lima-209",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I want to live in a 2BR apartment in downtown Chicago, probably over the next 5 years. My wife and I make 250k, though we like to live at a high standard. Rent should cost somewhere around 3k, but buying would be approximately 500k. Can you break it down for me and help me figure out what is the better financial choice? Renting or buying?",
+        "response": "N/A"
+    },
+    {
+        "id": 630,
+        "source_id": "lima-210",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "In linux, how do I list all the files in the subdirectories of ~/data according to the time they were last edited? ",
+        "response": "N/A"
+    },
+    {
+        "id": 635,
+        "source_id": "lima-215",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "I want to write a new fantasy novel that is a metaphor for global warming. Write an outline for the novel.",
+        "response": "N/A"
+    },
+    {
+        "id": 643,
+        "source_id": "lima-223",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Suggest 5 interesting names for D&D characters. Each name should also fit their class.",
+        "response": "N/A"
+    },
+    {
+        "id": 652,
+        "source_id": "lima-232",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How do noise cancelling headphones/earphones work?",
+        "response": "N/A"
+    },
+    {
+        "id": 667,
+        "source_id": "lima-247",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "In the US, onions are the only commodity that can not be traded as a futures contract due to 1958 Onion Futures Act. Why was this restriction not repealed along with other deregulation measures of 80s and 90s? Why was onion seen as different from other commodities?",
+        "response": "N/A"
+    },
+    {
+        "id": 675,
+        "source_id": "lima-255",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Does forcing people (employees, customers, etc.) to change their password every 3-6 months really help with security?",
+        "response": "N/A"
+    },
+    {
+        "id": 694,
+        "source_id": "lima-274",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "If a job application asks for standardized test scores and cumulative GPA, can I just put N/A or will it hurt my candidacy?",
+        "response": "N/A"
+    },
+    {
+        "id": 713,
+        "source_id": "lima-293",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Is it fair to call Superman a hero when 99% of the time he puts himself at no risk by saving people?",
+        "response": "N/A"
+    },
+    {
+        "id": 716,
+        "source_id": "lima-296",
+        "dataset": "lima",
+        "category": "regular",
+        "generator": null,
+        "prompt": "What is the best explanation of Newton’s laws?",
+        "response": "N/A"
+    },
+    {
+        "id": 722,
+        "source_id": "mt-72595869-writing",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Imagine you are writing a blog post comparing two popular smartphone models. Develop an outline for the blog post, including key points and subheadings to effectively compare and contrast the features, performance, and user experience of the two models. Please answer in fewer than 200 words.",
+        "response": "N/A"
+    },
+    {
+        "id": 758,
+        "source_id": "mt-48989963-math",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Benjamin went to a bookstore and purchased a variety of books. He bought 5 copies of a sci-fi novel, each priced at $20, 3 copies of a history book priced at $30 each, and 2 copies of a philosophy book for $45 each.\nWhat was the total cost of his purchases?",
+        "response": "N/A"
+    },
+    {
+        "id": 774,
+        "source_id": "mt-48344673-extraction",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Identify the countries, their capitals, and the languages spoken in the following sentences. Output in JSON format.\na) Amidst the idyllic vistas, Copenhagen, Denmark's capital, captivates visitors with its thriving art scene and the enchanting Danish language spoken by its inhabitants.\nb) Within the enchanting realm of Eldoria, one discovers Avalore, a grandiose city that emanates an ethereal aura. Lumina, a melodious language, serves as the principal mode of communication within this mystical abode.\nc) Nestled amidst a harmonious blend of age-old customs and contemporary wonders, Buenos Aires, the capital of Argentina, stands as a bustling metropolis. It is a vibrant hub where the expressive Spanish language holds sway over the city's inhabitants.",
+        "response": "N/A"
+    },
+    {
+        "id": 781,
+        "source_id": "mt-67710207-stem",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Consider a satellite that is in a circular orbit around the Earth. The speed of the satellite decreases. What will happen to the satellite's orbital radius and period of revolution? Please justify your answer using principles of physics.",
+        "response": "N/A"
+    },
+    {
+        "id": 791,
+        "source_id": "mt-68280443-humanities",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "How do the stages of life shape our understanding of time and mortality?",
+        "response": "N/A"
+    },
+    {
+        "id": 793,
+        "source_id": "mt-62739310-humanities",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Create a lesson plan that integrates drama, mime or theater techniques into a history class. Duration: 3 class periods (each lasts for 45 minutes) for 3 days\nTopic: Opium Wars between China and Britain\nGrade level: 9-10",
+        "response": "N/A"
+    },
+    {
+        "id": 794,
+        "source_id": "mt-14125357-humanities",
+        "dataset": "mt",
+        "category": "regular",
+        "generator": null,
+        "prompt": "Share ideas for adapting art masterpieces into interactive experiences for children. List 5 specific artworks and associated ideas.",
+        "response": "N/A"
+    }
+]

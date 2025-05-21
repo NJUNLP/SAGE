@@ -1,0 +1,1598 @@
+[
+    {
+        "subject": "abstract_algebra",
+        "question": "If A = (1, 2, 3, 4). Let ~= {(1, 2), (1, 3), (4, 2)}. Then ~ is",
+        "choices": [
+            "not anti-symmetric",
+            "transitive",
+            "reflexive",
+            "symmetric"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about abstract algebra.\n\nIf A = (1, 2, 3, 4). Let ~= {(1, 2), (1, 3), (4, 2)}. Then ~ is\n\nA. not anti-symmetric\nB. transitive\nC. reflexive\nD. symmetric\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 0
+    },
+    {
+        "subject": "abstract_algebra",
+        "question": "Statement 1 | If T: V -> W is a linear transformation and dim(V ) < dim(W) < 1, then T must be injective. Statement 2 | Let dim(V) = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.",
+        "choices": [
+            "True, True",
+            "False, False",
+            "True, False",
+            "False, True"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about abstract algebra.\n\nStatement 1 | If T: V -> W is a linear transformation and dim(V ) < dim(W) < 1, then T must be injective. Statement 2 | Let dim(V) = n and suppose that T: V -> V is linear. If T is injective, then it is a bijection.\n\nA. True, True\nB. False, False\nC. True, False\nD. False, True\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 1
+    },
+    {
+        "subject": "anatomy",
+        "question": "The coronary arteries",
+        "choices": [
+            "arise from the arch of the aorta and fill during diastole.",
+            "arise from the ascending aorta and fill during systole.",
+            "arise from the arch of the aorta and fill during systole.",
+            "arise from the ascending aorta and fill during diastole."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about anatomy.\n\nThe coronary arteries\n\nA. arise from the arch of the aorta and fill during diastole.\nB. arise from the ascending aorta and fill during systole.\nC. arise from the arch of the aorta and fill during systole.\nD. arise from the ascending aorta and fill during diastole.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 2
+    },
+    {
+        "subject": "anatomy",
+        "question": "A possible effect of damage to the third cranial nerve by trauma to the orbit is",
+        "choices": [
+            "a convergent strabismus.",
+            "ptosis.",
+            "pupillary contriction.",
+            "bitemporal hemianopia."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about anatomy.\n\nA possible effect of damage to the third cranial nerve by trauma to the orbit is\n\nA. a convergent strabismus.\nB. ptosis.\nC. pupillary contriction.\nD. bitemporal hemianopia.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 3
+    },
+    {
+        "subject": "astronomy",
+        "question": "Sunspots are black regions that temporarily appear on the Sun. Their number highly increases every ... years. This period is also called the solar cycle.",
+        "choices": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about astronomy.\n\nSunspots are black regions that temporarily appear on the Sun. Their number highly increases every ... years. This period is also called the solar cycle.\n\nA. 9\nB. 11\nC. 13\nD. 15\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 4
+    },
+    {
+        "subject": "astronomy",
+        "question": "Which factor s most important in determining the history of volanism and tectonism on a planet?",
+        "choices": [
+            "size of the planet",
+            "presence of an atmosphere",
+            "distance from the sun",
+            "rotation period"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about astronomy.\n\nWhich factor s most important in determining the history of volanism and tectonism on a planet?\n\nA. size of the planet\nB. presence of an atmosphere\nC. distance from the sun\nD. rotation period\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 5
+    },
+    {
+        "subject": "business_ethics",
+        "question": " What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?",
+        "choices": [
+            "Breadth, Clarity, Accuracy",
+            "Disclosure, Detail, Accuracy",
+            "Disclosure, Clarity, Accuracy",
+            "Disclosure, Clarity, Efficiency"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about business ethics.\n\n What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?\n\nA. Breadth, Clarity, Accuracy\nB. Disclosure, Detail, Accuracy\nC. Disclosure, Clarity, Accuracy\nD. Disclosure, Clarity, Efficiency\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 6
+    },
+    {
+        "subject": "business_ethics",
+        "question": "The ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.",
+        "choices": [
+            "Social accountability standard, SA 8000",
+            "Social accountability standard, SA 9000",
+            "Sarbanes-Oxley Act, SA 8000",
+            "Sarbanes-Oxley Act, SA 9000"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about business ethics.\n\nThe ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.\n\nA. Social accountability standard, SA 8000\nB. Social accountability standard, SA 9000\nC. Sarbanes-Oxley Act, SA 8000\nD. Sarbanes-Oxley Act, SA 9000\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 7
+    },
+    {
+        "subject": "clinical_knowledge",
+        "question": "Which of the following is true about rectal bleeding?",
+        "choices": [
+            "A painful digital examination suggests an anal fissure",
+            "Bright red blood on the finger usually signifies a caecal lesion",
+            "Proctoscopy is of no value in the assessment of rectal bleeding",
+            "Rectal cancer is the commonest cause of rectal bleeding"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about clinical knowledge.\n\nWhich of the following is true about rectal bleeding?\n\nA. A painful digital examination suggests an anal fissure\nB. Bright red blood on the finger usually signifies a caecal lesion\nC. Proctoscopy is of no value in the assessment of rectal bleeding\nD. Rectal cancer is the commonest cause of rectal bleeding\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 8
+    },
+    {
+        "subject": "clinical_knowledge",
+        "question": "An allele that is masked is referred to as:",
+        "choices": [
+            "recessive.",
+            "redundant.",
+            "repressed.",
+            "reclusive."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about clinical knowledge.\n\nAn allele that is masked is referred to as:\n\nA. recessive.\nB. redundant.\nC. repressed.\nD. reclusive.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 9
+    },
+    {
+        "subject": "college_biology",
+        "question": "Which of the following characteristics is predicted for an early-successional plant community?",
+        "choices": [
+            "High niche divergence among co-occurring species",
+            "High ratios of primary production to standing-crop biomass",
+            "High frequency of K-selected species",
+            "High detrital biomass"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college biology.\n\nWhich of the following characteristics is predicted for an early-successional plant community?\n\nA. High niche divergence among co-occurring species\nB. High ratios of primary production to standing-crop biomass\nC. High frequency of K-selected species\nD. High detrital biomass\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 10
+    },
+    {
+        "subject": "college_biology",
+        "question": "In the growth of a population, the point at which natality and mortality rates are equal to one another is referred to as",
+        "choices": [
+            "a population crash",
+            "a population explosion",
+            "zero population growth",
+            "exponential growth"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college biology.\n\nIn the growth of a population, the point at which natality and mortality rates are equal to one another is referred to as\n\nA. a population crash\nB. a population explosion\nC. zero population growth\nD. exponential growth\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 11
+    },
+    {
+        "subject": "college_chemistry",
+        "question": "Calculate the Larmor frequency for a proton in a magnetic field of 1 T.",
+        "choices": [
+            "23.56 GHz",
+            "42.58 MHz",
+            "74.34 kHz",
+            "13.93 MHz"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college chemistry.\n\nCalculate the Larmor frequency for a proton in a magnetic field of 1 T.\n\nA. 23.56 GHz\nB. 42.58 MHz\nC. 74.34 kHz\nD. 13.93 MHz\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 12
+    },
+    {
+        "subject": "college_chemistry",
+        "question": "Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.",
+        "choices": [
+            "Q = 1012",
+            "Q = 2012",
+            "Q = 3012",
+            "Q = 6012"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college chemistry.\n\nCalculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.\n\nA. Q = 1012\nB. Q = 2012\nC. Q = 3012\nD. Q = 6012\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 13
+    },
+    {
+        "subject": "college_computer_science",
+        "question": "An internal hash table has 5 buckets, numbered 0, 1, 2, 3, 4. Keys are integers, and the hash function h(i) = i mod 5 is used, with linear resolution of collisions (i.e., if bucket h(i) is filled, the buckets h(i) + 1, h(i) + 2, ... are tried successively with all bucket numbers computed modulo 5). If elements with keys 13, 8, 24, 10, and 3 are inserted, m that order, into an initially blank hash table, then the content of the bucket numbered 2 is",
+        "choices": [
+            "3",
+            "8",
+            "10",
+            "13"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college computer science.\n\nAn internal hash table has 5 buckets, numbered 0, 1, 2, 3, 4. Keys are integers, and the hash function h(i) = i mod 5 is used, with linear resolution of collisions (i.e., if bucket h(i) is filled, the buckets h(i) + 1, h(i) + 2, ... are tried successively with all bucket numbers computed modulo 5). If elements with keys 13, 8, 24, 10, and 3 are inserted, m that order, into an initially blank hash table, then the content of the bucket numbered 2 is\n\nA. 3\nB. 8\nC. 10\nD. 13\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 14
+    },
+    {
+        "subject": "college_computer_science",
+        "question": "For a connected, undirected graph G = (V, E), which of the following must be true?\nI. Σ_{v∈V} degree(v) is even.\nII. |E| ≥ |V| − 1\nIII. G has at least one vertex with degree 1.",
+        "choices": [
+            "I only",
+            "II only",
+            "III only",
+            "I and II"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college computer science.\n\nFor a connected, undirected graph G = (V, E), which of the following must be true?\nI. Σ_{v∈V} degree(v) is even.\nII. |E| ≥ |V| − 1\nIII. G has at least one vertex with degree 1.\n\nA. I only\nB. II only\nC. III only\nD. I and II\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 15
+    },
+    {
+        "subject": "college_mathematics",
+        "question": "If f(z) is an analytic function that maps the entire finite complex plane into the real axis, then the imaginary axis must be mapped onto",
+        "choices": [
+            "the entire real axis",
+            "a point",
+            "a ray",
+            "an open finite interval"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college mathematics.\n\nIf f(z) is an analytic function that maps the entire finite complex plane into the real axis, then the imaginary axis must be mapped onto\n\nA. the entire real axis\nB. a point\nC. a ray\nD. an open finite interval\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 16
+    },
+    {
+        "subject": "college_mathematics",
+        "question": "Let f(x,y) = x^2 - 2xy + y^3 for all real x and y. Which of the following is true?",
+        "choices": [
+            "f has all of its relative extrema on the line x = y.",
+            "f has all of its relative extrema on the parabola x = y^2.",
+            "f has a relative minimum at (0, 0).",
+            "f has an absolute minimum at (2/3, 2/3)."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college mathematics.\n\nLet f(x,y) = x^2 - 2xy + y^3 for all real x and y. Which of the following is true?\n\nA. f has all of its relative extrema on the line x = y.\nB. f has all of its relative extrema on the parabola x = y^2.\nC. f has a relative minimum at (0, 0).\nD. f has an absolute minimum at (2/3, 2/3).\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 17
+    },
+    {
+        "subject": "college_medicine",
+        "question": "Neonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion?",
+        "choices": [
+            "Increases surface permeability",
+            "Maintains alveoli in an open state",
+            "Depresses cilia of the lung",
+            "Dilates blood vessels"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college medicine.\n\nNeonatal Respiratory Distress Syndrome (NRDS) is a serious complication seen in infants born prematurely who have a compromised ability to facilitate oxygen diffusion across their alveolar membranes. This is caused by inadequate surfactant production. What role does surfactant play in facilitating oxygen diffusion?\n\nA. Increases surface permeability\nB. Maintains alveoli in an open state\nC. Depresses cilia of the lung\nD. Dilates blood vessels\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 18
+    },
+    {
+        "subject": "college_medicine",
+        "question": "A new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under?",
+        "choices": [
+            "Oxidoreductase",
+            "Transferase",
+            "Hydrolase",
+            "Lyase"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college medicine.\n\nA new enzyme is found in a transgenic mice that participates in synthesis of an unknown product using two reactants. When using radiolabeled compounds to study the enzyme, it is found that the enzyme catalyzes a process that switches a nitrogen group on one reactant to the other reactant. Which of the following categories would this new enzyme fall under?\n\nA. Oxidoreductase\nB. Transferase\nC. Hydrolase\nD. Lyase\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 19
+    },
+    {
+        "subject": "college_physics",
+        "question": "Under certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)",
+        "choices": [
+            "0.1 eV",
+            "1 eV",
+            "10 eV",
+            "100 eV"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college physics.\n\nUnder certain conditions, a beam of electrons impinging on a crystal surface will diffract and a scattering pattern of the beam can be obtained. What is the approximate kinetic energy of the electrons needed in order to see the pattern? (Assume the lattice spacing of the crystal to be 0.4 nm.)\n\nA. 0.1 eV\nB. 1 eV\nC. 10 eV\nD. 100 eV\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 20
+    },
+    {
+        "subject": "college_physics",
+        "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric effect predicts that the",
+        "choices": [
+            "work function of the metal is proportional to the frequency",
+            "work function of the metal is proportional to the wavelength",
+            "current in the tube is a linear function of the wavelength",
+            "potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about college physics.\n\nLight of variable frequency shines on the metal surface of a photoelectric tube. Einstein’s theory of the photoelectric effect predicts that the\n\nA. work function of the metal is proportional to the frequency\nB. work function of the metal is proportional to the wavelength\nC. current in the tube is a linear function of the wavelength\nD. potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 21
+    },
+    {
+        "subject": "computer_security",
+        "question": "In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.",
+        "choices": [
+            "Phishing",
+            "MiTM",
+            "Buffer-overflow",
+            "Clickjacking"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about computer security.\n\nIn a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.\n\nA. Phishing\nB. MiTM\nC. Buffer-overflow\nD. Clickjacking\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 22
+    },
+    {
+        "subject": "computer_security",
+        "question": "Which of the following is true of mutation-based fuzzing?",
+        "choices": [
+            "It generates each different input by modifying a prior input",
+            "It works by making small mutations to the target program to induce faults",
+            "Each input is mutation that follows a given grammar",
+            "It only makes sense for file-based fuzzing, not network-based fuzzing"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about computer security.\n\nWhich of the following is true of mutation-based fuzzing?\n\nA. It generates each different input by modifying a prior input\nB. It works by making small mutations to the target program to induce faults\nC. Each input is mutation that follows a given grammar\nD. It only makes sense for file-based fuzzing, not network-based fuzzing\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 23
+    },
+    {
+        "subject": "conceptual_physics",
+        "question": "The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is",
+        "choices": [
+            "200 W",
+            "500 W",
+            "800 W",
+            "2000 W"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about conceptual physics.\n\nThe power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is\n\nA. 200 W\nB. 500 W\nC. 800 W\nD. 2000 W\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 24
+    },
+    {
+        "subject": "conceptual_physics",
+        "question": "In a hydraulic press operation, the output piston cannot",
+        "choices": [
+            "move farther than the input piston",
+            "exceed the force input",
+            "exceed the input piston’s speed",
+            "produce increased energy"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about conceptual physics.\n\nIn a hydraulic press operation, the output piston cannot\n\nA. move farther than the input piston\nB. exceed the force input\nC. exceed the input piston’s speed\nD. produce increased energy\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 25
+    },
+    {
+        "subject": "econometrics",
+        "question": "Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns",
+        "choices": [
+            "(ii) and (iv) only",
+            "(i) and (iii) only",
+            "(i), (ii), and (iii) only",
+            "(i), (ii), (iii), and (iv)"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about econometrics.\n\nWhich of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns\n\nA. (ii) and (iv) only\nB. (i) and (iii) only\nC. (i), (ii), and (iii) only\nD. (i), (ii), (iii), and (iv)\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 26
+    },
+    {
+        "subject": "econometrics",
+        "question": "Which one of the following is NOT an example of mis-specification of functional form?",
+        "choices": [
+            "Using a linear specification when y scales as a function of the squares of x",
+            "Using a linear specification when a double-logarithmic model would be more appropriate",
+            "Modelling y as a function of x when in fact it scales as a function of 1/x",
+            "Excluding a relevant variable from a linear regression model"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about econometrics.\n\nWhich one of the following is NOT an example of mis-specification of functional form?\n\nA. Using a linear specification when y scales as a function of the squares of x\nB. Using a linear specification when a double-logarithmic model would be more appropriate\nC. Modelling y as a function of x when in fact it scales as a function of 1/x\nD. Excluding a relevant variable from a linear regression model\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 27
+    },
+    {
+        "subject": "electrical_engineering",
+        "question": "The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",
+        "choices": [
+            "R Ω",
+            "2R Ω",
+            "4R Ω",
+            "8R Ω"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about electrical engineering.\n\nThe resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be\n\nA. R Ω\nB. 2R Ω\nC. 4R Ω\nD. 8R Ω\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 28
+    },
+    {
+        "subject": "electrical_engineering",
+        "question": "The change of cross sectional area of conductor in magnetic field will affect",
+        "choices": [
+            "reluctance of conductor.",
+            "resistance of conductor.",
+            "(A) and (B) both in the same way.",
+            "none of above."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about electrical engineering.\n\nThe change of cross sectional area of conductor in magnetic field will affect\n\nA. reluctance of conductor.\nB. resistance of conductor.\nC. (A) and (B) both in the same way.\nD. none of above.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 29
+    },
+    {
+        "subject": "elementary_mathematics",
+        "question": "Find the quotient of −40 ÷ (−8).",
+        "choices": [
+            "1 over 5",
+            "−5",
+            "−1 over 5",
+            "5"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about elementary mathematics.\n\nFind the quotient of −40 ÷ (−8).\n\nA. 1 over 5\nB. −5\nC. −1 over 5\nD. 5\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 30
+    },
+    {
+        "subject": "elementary_mathematics",
+        "question": "Change 34 L 18 cL to liters.",
+        "choices": [
+            "34.18 L",
+            "35.8 L",
+            "34.018 L",
+            "214 L"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about elementary mathematics.\n\nChange 34 L 18 cL to liters.\n\nA. 34.18 L\nB. 35.8 L\nC. 34.018 L\nD. 214 L\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 31
+    },
+    {
+        "subject": "formal_logic",
+        "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~O ⊃ P and O ∨ P",
+        "choices": [
+            "Logically equivalent",
+            "Contradictory",
+            "Neither logically equivalent nor contradictory, but consistent",
+            "Inconsistent"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about formal logic.\n\n Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~O ⊃ P and O ∨ P\n\nA. Logically equivalent\nB. Contradictory\nC. Neither logically equivalent nor contradictory, but consistent\nD. Inconsistent\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 32
+    },
+    {
+        "subject": "formal_logic",
+        "question": "Select the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y)",
+        "choices": [
+            "hLf",
+            "fLh",
+            "Lfh",
+            "Lhf"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about formal logic.\n\nSelect the best translation into predicate logic. Holly loves Frances. (f: Frances; h: Holly; Lxy: x loves y)\n\nA. hLf\nB. fLh\nC. Lfh\nD. Lhf\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 33
+    },
+    {
+        "subject": "global_facts",
+        "question": "As of 2019, about what percentage of Americans say the relationship between the U.S. and Germany is good?",
+        "choices": [
+            "60%",
+            "75%",
+            "90%",
+            "45%"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about global facts.\n\nAs of 2019, about what percentage of Americans say the relationship between the U.S. and Germany is good?\n\nA. 60%\nB. 75%\nC. 90%\nD. 45%\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 34
+    },
+    {
+        "subject": "global_facts",
+        "question": "In 1943 how many Americans believed in the Holocaust?",
+        "choices": [
+            "30%",
+            "50%",
+            "70%",
+            "90%"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about global facts.\n\nIn 1943 how many Americans believed in the Holocaust?\n\nA. 30%\nB. 50%\nC. 70%\nD. 90%\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 35
+    },
+    {
+        "subject": "high_school_biology",
+        "question": "During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double?",
+        "choices": [
+            "G_1",
+            "G_2",
+            "M",
+            "S"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school biology.\n\nDuring which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double?\n\nA. G_1\nB. G_2\nC. M\nD. S\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 36
+    },
+    {
+        "subject": "high_school_biology",
+        "question": "Which of the following is NOT a characteristic of asexual reproduction in animals?",
+        "choices": [
+            "Daughter cells have the same number of chromosomes as the parent cell.",
+            "Daughter cells are identical to the parent cell.",
+            "The parent cell produces diploid cells.",
+            "The daughter cells fuse to form a zygote."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school biology.\n\nWhich of the following is NOT a characteristic of asexual reproduction in animals?\n\nA. Daughter cells have the same number of chromosomes as the parent cell.\nB. Daughter cells are identical to the parent cell.\nC. The parent cell produces diploid cells.\nD. The daughter cells fuse to form a zygote.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 37
+    },
+    {
+        "subject": "high_school_chemistry",
+        "question": "Changing which of the following will change the numerical value of the equilibrium constant?",
+        "choices": [
+            "The pressure of reactants",
+            "The pressure of products",
+            "The temperature",
+            "The total mass of the chemicals present"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school chemistry.\n\nChanging which of the following will change the numerical value of the equilibrium constant?\n\nA. The pressure of reactants\nB. The pressure of products\nC. The temperature\nD. The total mass of the chemicals present\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 38
+    },
+    {
+        "subject": "high_school_chemistry",
+        "question": "Silver metal, often amalgamated with mercury, is used to reduce substances to a desired oxidation state. If the silver metal amalgam cannot be used because of concerns about mercury, which of the following would be a reasonable and safe substitute?",
+        "choices": [
+            "H+(aq)",
+            "Na(s)",
+            "Ca2+(aq)",
+            "Mg(s)"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school chemistry.\n\nSilver metal, often amalgamated with mercury, is used to reduce substances to a desired oxidation state. If the silver metal amalgam cannot be used because of concerns about mercury, which of the following would be a reasonable and safe substitute?\n\nA. H+(aq)\nB. Na(s)\nC. Ca2+(aq)\nD. Mg(s)\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 39
+    },
+    {
+        "subject": "high_school_computer_science",
+        "question": "Let l = [1,2,2,3,4]. In Python3, what is a possible output of set(l)?",
+        "choices": [
+            "{1}",
+            "{1,2,2,3,4}",
+            "{1,2,3,4}",
+            "{4,3,2,2,1}"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school computer science.\n\nLet l = [1,2,2,3,4]. In Python3, what is a possible output of set(l)?\n\nA. {1}\nB. {1,2,2,3,4}\nC. {1,2,3,4}\nD. {4,3,2,2,1}\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 40
+    },
+    {
+        "subject": "high_school_computer_science",
+        "question": "The procedure below is intended to display the index in a list of unique names (nameList) where a particular name (targetName) is found. lf targetName is not found in nameList, the code should display 0.\n PROCEDURE FindName (nameList, targetName)\n {\n  index ← 0\n  FOR EACH name IN nameList\n  {\n   index ← index + 1\n   IF (name = targetName)\n   {\n   foundIndex ← index\n   }\n   ELSE\n   {\n   foundIndex ← 0\n   }\n  }\n  DISPLAY (foundIndex)\n }\n Which of the following procedure calls can be used to demonstrate that the procedure does NOT Work as intended?",
+        "choices": [
+            "FindName ([\"Andrea\", \"Ben\"], \"Ben\" )",
+            "FindName ([\"Andrea\", \"Ben\" ], \"Diane\" )",
+            "FindName ([\"Andrea\", \"Ben\", \"Chris\"], \"Ben\")",
+            "FindName ([\"Andrea\", \"Chris\", \"Diane\"], \"Ben\")"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school computer science.\n\nThe procedure below is intended to display the index in a list of unique names (nameList) where a particular name (targetName) is found. lf targetName is not found in nameList, the code should display 0.\n PROCEDURE FindName (nameList, targetName)\n {\n  index ← 0\n  FOR EACH name IN nameList\n  {\n   index ← index + 1\n   IF (name = targetName)\n   {\n   foundIndex ← index\n   }\n   ELSE\n   {\n   foundIndex ← 0\n   }\n  }\n  DISPLAY (foundIndex)\n }\n Which of the following procedure calls can be used to demonstrate that the procedure does NOT Work as intended?\n\nA. FindName ([\"Andrea\", \"Ben\"], \"Ben\" )\nB. FindName ([\"Andrea\", \"Ben\" ], \"Diane\" )\nC. FindName ([\"Andrea\", \"Ben\", \"Chris\"], \"Ben\")\nD. FindName ([\"Andrea\", \"Chris\", \"Diane\"], \"Ben\")\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 41
+    },
+    {
+        "subject": "high_school_european_history",
+        "question": "This question refers to the following information.\n\"The Government of the German Reich and The Government of the Union of Soviet Socialist Republics desirous of strengthening the cause of peace between Germany and the U.S.S.R., and proceeding from the fundamental provisions of the Neutrality Agreement concluded in April, 1926 between Germany and the U.S.S.R., have reached the following Agreement:\nArticle I. Both High Contracting Parties obligate themselves to desist from any act of violence, any aggressive action, and any attack on each other, either individually or jointly with other Powers.\nArticle II. Should one of the High Contracting Parties become the object of belligerent action by a third Power, the other High Contracting Party shall in no manner lend its support to this third Power.\nArticle III. The Governments of the two High Contracting Parties shall in the future maintain continual contact with one another for the purpose of consultation in order to exchange information on problems affecting their common interests.\nArticle IV. Should disputes or conflicts arise between the High Contracting Parties shall participate in any grouping of Powers whatsoever that is directly or indirectly aimed at the other party.\nArticle V. Should disputes or conflicts arise between the High Contracting Parties over problems of one kind or another, both parties shall settle these disputes or conflicts exclusively through friendly exchange of opinion or, if necessary, through the establishment of arbitration commissions.\"\nMolotov-Ribbentrop Pact, 1939\nThe Soviets were most strongly motivated to create this agreement because",
+        "choices": [
+            "Germany promised to help regain Soviet land lost in the First World War",
+            "the attempt by the Soviets to form an alliance with Britain and France had failed",
+            "they wanted to assist the Germans in seizing land from Czechoslovakia",
+            "they held debt to Germany stemming from the First World War"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school european history.\n\nThis question refers to the following information.\n\"The Government of the German Reich and The Government of the Union of Soviet Socialist Republics desirous of strengthening the cause of peace between Germany and the U.S.S.R., and proceeding from the fundamental provisions of the Neutrality Agreement concluded in April, 1926 between Germany and the U.S.S.R., have reached the following Agreement:\nArticle I. Both High Contracting Parties obligate themselves to desist from any act of violence, any aggressive action, and any attack on each other, either individually or jointly with other Powers.\nArticle II. Should one of the High Contracting Parties become the object of belligerent action by a third Power, the other High Contracting Party shall in no manner lend its support to this third Power.\nArticle III. The Governments of the two High Contracting Parties shall in the future maintain continual contact with one another for the purpose of consultation in order to exchange information on problems affecting their common interests.\nArticle IV. Should disputes or conflicts arise between the High Contracting Parties shall participate in any grouping of Powers whatsoever that is directly or indirectly aimed at the other party.\nArticle V. Should disputes or conflicts arise between the High Contracting Parties over problems of one kind or another, both parties shall settle these disputes or conflicts exclusively through friendly exchange of opinion or, if necessary, through the establishment of arbitration commissions.\"\nMolotov-Ribbentrop Pact, 1939\nThe Soviets were most strongly motivated to create this agreement because\n\nA. Germany promised to help regain Soviet land lost in the First World War\nB. the attempt by the Soviets to form an alliance with Britain and France had failed\nC. they wanted to assist the Germans in seizing land from Czechoslovakia\nD. they held debt to Germany stemming from the First World War\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 42
+    },
+    {
+        "subject": "high_school_european_history",
+        "question": "This question refers to the following information.\nRead the excerpts below.\nThis corruption is repeatedly designated by Paul by the term sin . . . such as adultery, fornication, theft, hatred, murder, revellings, he terms, in the same way, the fruits of sin, though in various passages of Scripture . . . we are, merely on account of such corruption, deservedly condemned by God, to whom nothing is acceptable but righteousness, innocence, and purity.\n—John Calvin, from The Institutes of Christian Religion, Book 2: Chapter 1, 1545\nThe covenant of life is not preached equally to all, and among those to whom it is preached, does not always meet with the same reception. This diversity displays the unsearchable depth of the divine judgment, and is without doubt subordinate to God's purpose of eternal election. But if it is plainly owing to the mere pleasure of God that salvation is spontaneously offered to some, while others have no access to it, great and difficult questions immediately arise, questions which are inexplicable, when just views are not entertained concerning election and predestination[,] . . . the grace of God being illustrated by the contrast, viz., that he does not adopt all promiscuously to the hope of salvation, but gives to some what he denies to others.\n—John Calvin, from The Institutes of Christian Religion, Book 3: Chapter 21, 1545\nWhich of the following is the biggest contrast between the ideas of Calvinists when compared to their fellow Protestant Lutherans?",
+        "choices": [
+            "Calvinists believed that the state is absolutely subordinate to the religious organization.",
+            "Calvinists believed in consubstantiation while Lutherans believed in transubstantiation.",
+            "Lutherans used the reformed faith to their political advantage to break free from domination from the pope and the Holy Roman Empire.",
+            "Lutherans insisted upon maintaining all of the seven sacraments while the Calvinists chose to honor only two of them."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school european history.\n\nThis question refers to the following information.\nRead the excerpts below.\nThis corruption is repeatedly designated by Paul by the term sin . . . such as adultery, fornication, theft, hatred, murder, revellings, he terms, in the same way, the fruits of sin, though in various passages of Scripture . . . we are, merely on account of such corruption, deservedly condemned by God, to whom nothing is acceptable but righteousness, innocence, and purity.\n—John Calvin, from The Institutes of Christian Religion, Book 2: Chapter 1, 1545\nThe covenant of life is not preached equally to all, and among those to whom it is preached, does not always meet with the same reception. This diversity displays the unsearchable depth of the divine judgment, and is without doubt subordinate to God's purpose of eternal election. But if it is plainly owing to the mere pleasure of God that salvation is spontaneously offered to some, while others have no access to it, great and difficult questions immediately arise, questions which are inexplicable, when just views are not entertained concerning election and predestination[,] . . . the grace of God being illustrated by the contrast, viz., that he does not adopt all promiscuously to the hope of salvation, but gives to some what he denies to others.\n—John Calvin, from The Institutes of Christian Religion, Book 3: Chapter 21, 1545\nWhich of the following is the biggest contrast between the ideas of Calvinists when compared to their fellow Protestant Lutherans?\n\nA. Calvinists believed that the state is absolutely subordinate to the religious organization.\nB. Calvinists believed in consubstantiation while Lutherans believed in transubstantiation.\nC. Lutherans used the reformed faith to their political advantage to break free from domination from the pope and the Holy Roman Empire.\nD. Lutherans insisted upon maintaining all of the seven sacraments while the Calvinists chose to honor only two of them.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 43
+    },
+    {
+        "subject": "high_school_geography",
+        "question": "The theory that whoever controlled the landmass of Europe would rule the world is called the",
+        "choices": [
+            "devolution theory.",
+            "domino theory.",
+            "heartland theory.",
+            "rimland theory."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school geography.\n\nThe theory that whoever controlled the landmass of Europe would rule the world is called the\n\nA. devolution theory.\nB. domino theory.\nC. heartland theory.\nD. rimland theory.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 44
+    },
+    {
+        "subject": "high_school_geography",
+        "question": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?",
+        "choices": [
+            "Devolution",
+            "Colonialism",
+            "Heartland theory",
+            "Containment theory"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school geography.\n\nWhich theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?\n\nA. Devolution\nB. Colonialism\nC. Heartland theory\nD. Containment theory\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 45
+    },
+    {
+        "subject": "high_school_government_and_politics",
+        "question": "Which of the following is true of the House Committee on Ways and Means?",
+        "choices": [
+            "Its primary role is to appropriate spending for infrastructure projects.",
+            "It is the primary author of congressional banking reform legislation.",
+            "It allocates funding for canals and waterways.",
+            "Its jurisdiction includes the tax system."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school government and politics.\n\nWhich of the following is true of the House Committee on Ways and Means?\n\nA. Its primary role is to appropriate spending for infrastructure projects.\nB. It is the primary author of congressional banking reform legislation.\nC. It allocates funding for canals and waterways.\nD. Its jurisdiction includes the tax system.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 46
+    },
+    {
+        "subject": "high_school_government_and_politics",
+        "question": "Which of the following is true of federal judges?",
+        "choices": [
+            "They serve four-year terms that coincide with the presidential term.",
+            "They are appointed for life and can only be removed by impeachment.",
+            "They are elected by Congress and serve ten-year terms.",
+            "They are appointed for life and cannot be removed from office."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school government and politics.\n\nWhich of the following is true of federal judges?\n\nA. They serve four-year terms that coincide with the presidential term.\nB. They are appointed for life and can only be removed by impeachment.\nC. They are elected by Congress and serve ten-year terms.\nD. They are appointed for life and cannot be removed from office.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 47
+    },
+    {
+        "subject": "high_school_macroeconomics",
+        "question": "In order to go from national income to GDP one must",
+        "choices": [
+            "add depreciation expenses",
+            "add indirect taxes",
+            "subtract subsidies",
+            "all of the above"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school macroeconomics.\n\nIn order to go from national income to GDP one must\n\nA. add depreciation expenses\nB. add indirect taxes\nC. subtract subsidies\nD. all of the above\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 48
+    },
+    {
+        "subject": "high_school_macroeconomics",
+        "question": "If people expect the price of a particular product to increase in the near future",
+        "choices": [
+            "this will not affect the demand for the product right now.",
+            "this will decrease the demand for the product.",
+            "this will not affect the demand for the product now or later.",
+            "this will increase the demand for the product."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school macroeconomics.\n\nIf people expect the price of a particular product to increase in the near future\n\nA. this will not affect the demand for the product right now.\nB. this will decrease the demand for the product.\nC. this will not affect the demand for the product now or later.\nD. this will increase the demand for the product.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 49
+    },
+    {
+        "subject": "high_school_mathematics",
+        "question": "If Owen has blue jeans with a 32-inch waist, what will be the new jean waist size Owen has to wear (to the nearest whole inch) if his waist circumference increases by 15%?",
+        "choices": [
+            "35 inches",
+            "36 inches",
+            "37 inches",
+            "38 inches"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school mathematics.\n\nIf Owen has blue jeans with a 32-inch waist, what will be the new jean waist size Owen has to wear (to the nearest whole inch) if his waist circumference increases by 15%?\n\nA. 35 inches\nB. 36 inches\nC. 37 inches\nD. 38 inches\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 50
+    },
+    {
+        "subject": "high_school_mathematics",
+        "question": "Bacteria in a culture increase at a rate proportional to the number present. An initial population of 200 triples in 10 hours. If this pattern of increase continues unabated, then the approximate number of bacteria after 1 full day is",
+        "choices": [
+            "1160",
+            "1440",
+            "2408",
+            "2793"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school mathematics.\n\nBacteria in a culture increase at a rate proportional to the number present. An initial population of 200 triples in 10 hours. If this pattern of increase continues unabated, then the approximate number of bacteria after 1 full day is\n\nA. 1160\nB. 1440\nC. 2408\nD. 2793\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 51
+    },
+    {
+        "subject": "high_school_microeconomics",
+        "question": "The basis for the answer in number 1 is",
+        "choices": [
+            "P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP.",
+            "P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP.",
+            "total revenue is at a maximum.",
+            "total output is at a maximum."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school microeconomics.\n\nThe basis for the answer in number 1 is\n\nA. P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP.\nB. P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP.\nC. total revenue is at a maximum.\nD. total output is at a maximum.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 52
+    },
+    {
+        "subject": "high_school_microeconomics",
+        "question": "Which of the following is true about a price floor?",
+        "choices": [
+            "It is used to correct government policy.",
+            "It is used when the equilibrium price is too high.",
+            "It will be located above the equilibrium price.",
+            "It will be located below the equilibrium price."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school microeconomics.\n\nWhich of the following is true about a price floor?\n\nA. It is used to correct government policy.\nB. It is used when the equilibrium price is too high.\nC. It will be located above the equilibrium price.\nD. It will be located below the equilibrium price.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 53
+    },
+    {
+        "subject": "high_school_physics",
+        "question": "An alarm whose frequency is 400 Hz is dropped out of a third-floor window. The student who drops it measures the frequency with a very sensitive oscilloscope. The measured frequency",
+        "choices": [
+            "appears higher than 400 Hz and the frequency increase as it falls",
+            "appears higher than 400 Hz and the frequency decreases as it falls",
+            "appears lower than 400 Hz and the frequency decreases as it falls",
+            "appears lower than 400 Hz and the frequency increases as it falls"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school physics.\n\nAn alarm whose frequency is 400 Hz is dropped out of a third-floor window. The student who drops it measures the frequency with a very sensitive oscilloscope. The measured frequency\n\nA. appears higher than 400 Hz and the frequency increase as it falls\nB. appears higher than 400 Hz and the frequency decreases as it falls\nC. appears lower than 400 Hz and the frequency decreases as it falls\nD. appears lower than 400 Hz and the frequency increases as it falls\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 54
+    },
+    {
+        "subject": "high_school_physics",
+        "question": "Two objects, A and B, have equal charge and equal mass. Neither body is in motion because the gravitational and electrostatic forces between them are equal. If the mass of Object A is halved, equilibrium will be maintained if",
+        "choices": [
+            "the charge on Object A were doubled",
+            "the charge on Object B were halved",
+            "the charge on Object B were doubled",
+            "the mass on Object B were halved"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school physics.\n\nTwo objects, A and B, have equal charge and equal mass. Neither body is in motion because the gravitational and electrostatic forces between them are equal. If the mass of Object A is halved, equilibrium will be maintained if\n\nA. the charge on Object A were doubled\nB. the charge on Object B were halved\nC. the charge on Object B were doubled\nD. the mass on Object B were halved\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 55
+    },
+    {
+        "subject": "high_school_psychology",
+        "question": "The more difference shown by the behavior of identical twins raised apart, the more the differences in their behavior can be attributed to their",
+        "choices": [
+            "heritability",
+            "genetic traits",
+            "mutations",
+            "environments"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school psychology.\n\nThe more difference shown by the behavior of identical twins raised apart, the more the differences in their behavior can be attributed to their\n\nA. heritability\nB. genetic traits\nC. mutations\nD. environments\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 56
+    },
+    {
+        "subject": "high_school_psychology",
+        "question": "Which of the following is not a basic somatosensation?",
+        "choices": [
+            "pain",
+            "touch",
+            "cold",
+            "itch"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school psychology.\n\nWhich of the following is not a basic somatosensation?\n\nA. pain\nB. touch\nC. cold\nD. itch\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 57
+    },
+    {
+        "subject": "high_school_statistics",
+        "question": "A student organization at a university is interested in estimating the proportion of students in favor of showing movies biweekly instead of monthly. How many students should be sampled to get a 90 percent confidence interval with a width of at most 0.08?",
+        "choices": [
+            "27",
+            "64",
+            "106",
+            "423"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school statistics.\n\nA student organization at a university is interested in estimating the proportion of students in favor of showing movies biweekly instead of monthly. How many students should be sampled to get a 90 percent confidence interval with a width of at most 0.08?\n\nA. 27\nB. 64\nC. 106\nD. 423\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 58
+    },
+    {
+        "subject": "high_school_statistics",
+        "question": "A farmer who raises hens for egg production wants his eggs to have a mean mass of 56 grams. He is considering the purchase of a different type of hen, so he took a random sample of 18 eggs laid by this type of hen. The distribution of the masses is symmetric and mound-shaped with a mean of 54.1 grams and no outliers. The farmer conducted a t-test to see if there is evidence that the eggs from these hens have a mean mass that is different from 56 g and got a test statistic of t= -1.973. If he uses a 5% significance level, which is the correct conclusion and reason?",
+        "choices": [
+            "Because tis more extreme than ±1.96, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.",
+            "Because tis less extreme than the critical value of t for 17 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.",
+            "Because tis less extreme than the critical value of t for 18 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.",
+            "Because tis more extreme than the critical value of t for 18 degrees of freedom, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school statistics.\n\nA farmer who raises hens for egg production wants his eggs to have a mean mass of 56 grams. He is considering the purchase of a different type of hen, so he took a random sample of 18 eggs laid by this type of hen. The distribution of the masses is symmetric and mound-shaped with a mean of 54.1 grams and no outliers. The farmer conducted a t-test to see if there is evidence that the eggs from these hens have a mean mass that is different from 56 g and got a test statistic of t= -1.973. If he uses a 5% significance level, which is the correct conclusion and reason?\n\nA. Because tis more extreme than ±1.96, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.\nB. Because tis less extreme than the critical value of t for 17 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.\nC. Because tis less extreme than the critical value of t for 18 degrees of freedom, he should not reject the null hypothesis. He does not have convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.\nD. Because tis more extreme than the critical value of t for 18 degrees of freedom, he should reject the null hypothesis. He has convincing evidence at the 5% significance level that the mean mass of eggs from these hens is different from 56 grams.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 59
+    },
+    {
+        "subject": "high_school_us_history",
+        "question": "This question refers to the following information.\n\"On the 4th of March next this party [the Republican party] will take possession of the government. It has announced that the South shall be excluded from the common territory, that the judicial tribunal shall be made sectional, and that a war must be waged against slavery until it shall cease throughout the United States. The guarantees of the Constitution will then no longer exist; the equal rights of the states will be lost. The slaveholding states will no longer have the power of self-government or self-protection, and the federal government will have become their enemy.\n\"We, therefore, the people of South Carolina, by our delegates in convention assembled, have solemnly declared that the Union heretofore existing between this state and the other states of North America is dissolved; and that the state of South Carolina has resumed her position among the nations of the world, as [a] separate and independent state, with full power to levy war, conclude peace, contract alliances, establish commerce, and to do all other acts and things which independent states may of right do.\"\nSouth Carolina defines the causes of secession, 1860\nWhich of the following best explains why South Carolina chose to secede from the Union in 1860?",
+        "choices": [
+            "The failures of the Compromise of 1850 hindered South Carolina's trade relationships with Western states, leading to severe economic recession.",
+            "The Battle of Fort Sumter occurred in Charleston, prompting public outrage over Union aggression.",
+            "President Lincoln signed the Emancipation Proclamation, thus undermining slavery in the South.",
+            "Lincoln's election on a Free-Soil platform led Southern politicians to conclude that secession was necessary."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school us history.\n\nThis question refers to the following information.\n\"On the 4th of March next this party [the Republican party] will take possession of the government. It has announced that the South shall be excluded from the common territory, that the judicial tribunal shall be made sectional, and that a war must be waged against slavery until it shall cease throughout the United States. The guarantees of the Constitution will then no longer exist; the equal rights of the states will be lost. The slaveholding states will no longer have the power of self-government or self-protection, and the federal government will have become their enemy.\n\"We, therefore, the people of South Carolina, by our delegates in convention assembled, have solemnly declared that the Union heretofore existing between this state and the other states of North America is dissolved; and that the state of South Carolina has resumed her position among the nations of the world, as [a] separate and independent state, with full power to levy war, conclude peace, contract alliances, establish commerce, and to do all other acts and things which independent states may of right do.\"\nSouth Carolina defines the causes of secession, 1860\nWhich of the following best explains why South Carolina chose to secede from the Union in 1860?\n\nA. The failures of the Compromise of 1850 hindered South Carolina's trade relationships with Western states, leading to severe economic recession.\nB. The Battle of Fort Sumter occurred in Charleston, prompting public outrage over Union aggression.\nC. President Lincoln signed the Emancipation Proclamation, thus undermining slavery in the South.\nD. Lincoln's election on a Free-Soil platform led Southern politicians to conclude that secession was necessary.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 60
+    },
+    {
+        "subject": "high_school_us_history",
+        "question": "This question refers to the following information.\n\"I am in Birmingham because injustice is here. . . . Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly affects all indirectly. Never again can we afford to live with the narrow, provincial 'outside agitator' idea. Anyone who lives inside the United States can never be considered an outsider anywhere in this country. . . .\"\n—Martin Luther King, Jr., \"Letter from a Birmingham Jail,\" April 16, 1963\nSusan B. Anthony and others in the women's rights movement had a major influence on the ratification of which of the following?",
+        "choices": [
+            "The Nineteenth Amendment.",
+            "The Equal Rights Amendment.",
+            "The Fifteenth Amendment.",
+            "The Twenty-sixth Amendment."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school us history.\n\nThis question refers to the following information.\n\"I am in Birmingham because injustice is here. . . . Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly affects all indirectly. Never again can we afford to live with the narrow, provincial 'outside agitator' idea. Anyone who lives inside the United States can never be considered an outsider anywhere in this country. . . .\"\n—Martin Luther King, Jr., \"Letter from a Birmingham Jail,\" April 16, 1963\nSusan B. Anthony and others in the women's rights movement had a major influence on the ratification of which of the following?\n\nA. The Nineteenth Amendment.\nB. The Equal Rights Amendment.\nC. The Fifteenth Amendment.\nD. The Twenty-sixth Amendment.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 61
+    },
+    {
+        "subject": "high_school_world_history",
+        "question": "This question refers to the following information.\nIs it not unity alone that can weld us into an effective force, capable of creating our own progress and making our valuable contribution to world peace? Which independent African state will claim that its financial structure and banking institutions are fully harnessed to its national development? Which will claim that its material resources and human energies are available for its own national aspirations? We are fast learning that political independence is not enough to rid us of the consequences of colonial rule. We have been too busy nursing our separate states to understand fully the basic need for union, rooted in common purpose, common planning and common endeavour.\nGhana's president, Kwame Nkrumah, addressing the Organization of African Unity, 1963\nWhich of the following factors was most important in preventing the fulfillment of the political dreams described in the passage?",
+        "choices": [
+            "A lack of common ethnicity, language, or religion",
+            "The spread of communism throughout the continent",
+            "Armed intervention on the part of the Cold War superpowers",
+            "Africa's shortage of natural resources"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school world history.\n\nThis question refers to the following information.\nIs it not unity alone that can weld us into an effective force, capable of creating our own progress and making our valuable contribution to world peace? Which independent African state will claim that its financial structure and banking institutions are fully harnessed to its national development? Which will claim that its material resources and human energies are available for its own national aspirations? We are fast learning that political independence is not enough to rid us of the consequences of colonial rule. We have been too busy nursing our separate states to understand fully the basic need for union, rooted in common purpose, common planning and common endeavour.\nGhana's president, Kwame Nkrumah, addressing the Organization of African Unity, 1963\nWhich of the following factors was most important in preventing the fulfillment of the political dreams described in the passage?\n\nA. A lack of common ethnicity, language, or religion\nB. The spread of communism throughout the continent\nC. Armed intervention on the part of the Cold War superpowers\nD. Africa's shortage of natural resources\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 62
+    },
+    {
+        "subject": "high_school_world_history",
+        "question": "This question refers to the following information.\n\"Our constitution does not copy the laws of neighboring states; we are rather a pattern to others than imitators ourselves. Its administration favors the many instead of the few; this is why it is called a democracy. If we look to the laws, they afford equal justice to all in their private differences; if no social standing, advancement in public life falls to reputation for capacity, class considerations not being allowed to interfere with merit; nor again does poverty bar the way, if a man is able to serve the state, he is not hindered by the obscurity of his condition. The freedom which we enjoy in our government extends also to our ordinary life. There, far from exercising a jealous surveillance over each other, we do not feel called upon to be angry with our neighbor for doing what he likes, or even to indulge in those injurious looks which cannot fail to be offensive, although they inflict no positive penalty. But all this ease in our private relations does not make us lawless as citizens. Against this fear is our chief safeguard, teaching us to obey the magistrates and the laws, particularly such as regard the protection of the injured, whether they are actually on the statute book, or belong to that code which, although unwritten, yet cannot be broken without acknowledged disgrace.\"\nThucydides, History of the Peloponnesian War, ca. 415 B.C.E.\nDuring the time period in which this text was written, who was allowed to participate in the Greek democratic process?",
+        "choices": [
+            "All adult men born within the geographic boundaries of the state",
+            "All adult men and women born within the geographic boundaries of the state",
+            "All adult men who were citizens of the state by birth",
+            "All adult men and women who were citizens of the state by birth"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about high school world history.\n\nThis question refers to the following information.\n\"Our constitution does not copy the laws of neighboring states; we are rather a pattern to others than imitators ourselves. Its administration favors the many instead of the few; this is why it is called a democracy. If we look to the laws, they afford equal justice to all in their private differences; if no social standing, advancement in public life falls to reputation for capacity, class considerations not being allowed to interfere with merit; nor again does poverty bar the way, if a man is able to serve the state, he is not hindered by the obscurity of his condition. The freedom which we enjoy in our government extends also to our ordinary life. There, far from exercising a jealous surveillance over each other, we do not feel called upon to be angry with our neighbor for doing what he likes, or even to indulge in those injurious looks which cannot fail to be offensive, although they inflict no positive penalty. But all this ease in our private relations does not make us lawless as citizens. Against this fear is our chief safeguard, teaching us to obey the magistrates and the laws, particularly such as regard the protection of the injured, whether they are actually on the statute book, or belong to that code which, although unwritten, yet cannot be broken without acknowledged disgrace.\"\nThucydides, History of the Peloponnesian War, ca. 415 B.C.E.\nDuring the time period in which this text was written, who was allowed to participate in the Greek democratic process?\n\nA. All adult men born within the geographic boundaries of the state\nB. All adult men and women born within the geographic boundaries of the state\nC. All adult men who were citizens of the state by birth\nD. All adult men and women who were citizens of the state by birth\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 63
+    },
+    {
+        "subject": "human_aging",
+        "question": "If you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?",
+        "choices": [
+            "Organismic",
+            "Nurture",
+            "Continuity",
+            "Mechanistic"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about human aging.\n\nIf you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?\n\nA. Organismic\nB. Nurture\nC. Continuity\nD. Mechanistic\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 64
+    },
+    {
+        "subject": "human_aging",
+        "question": "Which of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?",
+        "choices": [
+            "Social",
+            "Behavioral",
+            "Psychological",
+            "Gerontological"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about human aging.\n\nWhich of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?\n\nA. Social\nB. Behavioral\nC. Psychological\nD. Gerontological\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 65
+    },
+    {
+        "subject": "human_sexuality",
+        "question": "Romulo is on a crowded bus and he sees a woman near the door. Feeling a little saucy Romulo proceeds to rub up against the woman and is immediately aroused. Romulo's inappropriate behavior would be characterized as:",
+        "choices": [
+            "Frotteurism",
+            "Exhibitionism",
+            "Voyeurism",
+            "Sadomasochism"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about human sexuality.\n\nRomulo is on a crowded bus and he sees a woman near the door. Feeling a little saucy Romulo proceeds to rub up against the woman and is immediately aroused. Romulo's inappropriate behavior would be characterized as:\n\nA. Frotteurism\nB. Exhibitionism\nC. Voyeurism\nD. Sadomasochism\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 66
+    },
+    {
+        "subject": "human_sexuality",
+        "question": "If a woman or man repeatedly experiences pain during intercourse, she will probably want to have intercourse infrequently or not all. In this situation, __________ would likely classify the pain as a punishment.",
+        "choices": [
+            "Sigmund Freud",
+            "John Money",
+            "B. F. Skinner",
+            "Havelock Ellis"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about human sexuality.\n\nIf a woman or man repeatedly experiences pain during intercourse, she will probably want to have intercourse infrequently or not all. In this situation, __________ would likely classify the pain as a punishment.\n\nA. Sigmund Freud\nB. John Money\nC. B. F. Skinner\nD. Havelock Ellis\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 67
+    },
+    {
+        "subject": "international_law",
+        "question": "Where do we find the 'general principles of law recognized by civilized nations' (article 38 ICJ Statute)?",
+        "choices": [
+            "We look for established principles of law recognized only among the most civilised nations",
+            "We look for established principles of law, which are common to all major legal systems",
+            "We look for general principles of international law recognized by international courts and tribunals",
+            "We look for general principles of law recognized by all nations"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about international law.\n\nWhere do we find the 'general principles of law recognized by civilized nations' (article 38 ICJ Statute)?\n\nA. We look for established principles of law recognized only among the most civilised nations\nB. We look for established principles of law, which are common to all major legal systems\nC. We look for general principles of international law recognized by international courts and tribunals\nD. We look for general principles of law recognized by all nations\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 68
+    },
+    {
+        "subject": "international_law",
+        "question": "Are there any limitations to the incorporation of customary crimes under English law?",
+        "choices": [
+            "There are no limitations to the incorporation of customary crimes",
+            "Customary crimes must be contained in a multilateral treaty in order to be automatically incorporated",
+            "The courts may freely incorporate customary crimes into the domestic sphere",
+            "The situation is not clear-cut but an act of parliament would most probably be required"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about international law.\n\nAre there any limitations to the incorporation of customary crimes under English law?\n\nA. There are no limitations to the incorporation of customary crimes\nB. Customary crimes must be contained in a multilateral treaty in order to be automatically incorporated\nC. The courts may freely incorporate customary crimes into the domestic sphere\nD. The situation is not clear-cut but an act of parliament would most probably be required\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 69
+    },
+    {
+        "subject": "jurisprudence",
+        "question": "Robert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?",
+        "choices": [
+            "Effectiveness of rehabilitation of multiplied by hazard to the community.",
+            "Extent of responsibility multiplied by actual harm done.",
+            "Risk of violence multiplied by degree of humility of offender.",
+            "Recidivism multiplied by defendant's history."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about jurisprudence.\n\nRobert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?\n\nA. Effectiveness of rehabilitation of multiplied by hazard to the community.\nB. Extent of responsibility multiplied by actual harm done.\nC. Risk of violence multiplied by degree of humility of offender.\nD. Recidivism multiplied by defendant's history.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 70
+    },
+    {
+        "subject": "jurisprudence",
+        "question": "Which of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?",
+        "choices": [
+            "To demonstrate the differences between the criminal law and the civil law as they relate to cannibalism.",
+            "To examine the central questions of legal and political philosophy.",
+            "To criticize the role of the judiciary in cases involving a conflict between law and morality.",
+            "To consider the extent to which murder requires mens rea."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about jurisprudence.\n\nWhich of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?\n\nA. To demonstrate the differences between the criminal law and the civil law as they relate to cannibalism.\nB. To examine the central questions of legal and political philosophy.\nC. To criticize the role of the judiciary in cases involving a conflict between law and morality.\nD. To consider the extent to which murder requires mens rea.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 71
+    },
+    {
+        "subject": "logical_fallacies",
+        "question": "Arguing that someone couldn't have done something good because he is incapable of doing good commits the fallacy of",
+        "choices": [
+            "Begging the question",
+            "False dilemma",
+            "Accident",
+            "False dichotomy"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about logical fallacies.\n\nArguing that someone couldn't have done something good because he is incapable of doing good commits the fallacy of\n\nA. Begging the question\nB. False dilemma\nC. Accident\nD. False dichotomy\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 72
+    },
+    {
+        "subject": "logical_fallacies",
+        "question": "Which of the following best describes the fallacy of style over substance?",
+        "choices": [
+            "Changing the meaning of a word or phrase from one part of the argument to another.",
+            "Confusing figurative language with literal language.",
+            "Reasoning that ideas presented in an appealing manner are correct, regardless of the content of the message.",
+            "Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about logical fallacies.\n\nWhich of the following best describes the fallacy of style over substance?\n\nA. Changing the meaning of a word or phrase from one part of the argument to another.\nB. Confusing figurative language with literal language.\nC. Reasoning that ideas presented in an appealing manner are correct, regardless of the content of the message.\nD. Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 73
+    },
+    {
+        "subject": "machine_learning",
+        "question": "Adding more basis functions in a linear model, pick the most probably option:",
+        "choices": [
+            "Decreases model bias",
+            "Decreases estimation bias",
+            "Decreases variance",
+            "Doesn’t affect bias and variance"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about machine learning.\n\nAdding more basis functions in a linear model, pick the most probably option:\n\nA. Decreases model bias\nB. Decreases estimation bias\nC. Decreases variance\nD. Doesn’t affect bias and variance\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 74
+    },
+    {
+        "subject": "machine_learning",
+        "question": "Statement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.",
+        "choices": [
+            "True, True",
+            "False, False",
+            "True, False",
+            "False, True"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about machine learning.\n\nStatement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.\n\nA. True, True\nB. False, False\nC. True, False\nD. False, True\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 75
+    },
+    {
+        "subject": "management",
+        "question": "What do you call a style of leadership that takes account of others' views, opinions and ideas?",
+        "choices": [
+            "Laissez-faire",
+            "People-oriented",
+            "Democratic",
+            "Autocratic"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about management.\n\nWhat do you call a style of leadership that takes account of others' views, opinions and ideas?\n\nA. Laissez-faire\nB. People-oriented\nC. Democratic\nD. Autocratic\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 76
+    },
+    {
+        "subject": "management",
+        "question": "Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?",
+        "choices": [
+            "Process improvement",
+            "Techno-structural change model",
+            "Job characteristics model",
+            "Socio-technical systems"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about management.\n\nEnhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?\n\nA. Process improvement\nB. Techno-structural change model\nC. Job characteristics model\nD. Socio-technical systems\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 77
+    },
+    {
+        "subject": "marketing",
+        "question": "According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.",
+        "choices": [
+            "Increased consumer demand.",
+            "Advertising.",
+            "increase in urbanization.",
+            "Elasticity."
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about marketing.\n\nAccording to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.\n\nA. Increased consumer demand.\nB. Advertising.\nC. increase in urbanization.\nD. Elasticity.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 78
+    },
+    {
+        "subject": "marketing",
+        "question": " This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:",
+        "choices": [
+            "Advertising.",
+            "Public relations.",
+            "Sales promotion.",
+            "Direct marketing."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about marketing.\n\n This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:\n\nA. Advertising.\nB. Public relations.\nC. Sales promotion.\nD. Direct marketing.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 79
+    },
+    {
+        "subject": "medical_genetics",
+        "question": "The common mutation in α-thalassaemia consists of:",
+        "choices": [
+            "a deletion.",
+            "a duplication.",
+            "an insertion.",
+            "a point mutation."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about medical genetics.\n\nThe common mutation in α-thalassaemia consists of:\n\nA. a deletion.\nB. a duplication.\nC. an insertion.\nD. a point mutation.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 80
+    },
+    {
+        "subject": "medical_genetics",
+        "question": "The most common chromosome abnormality in first trimester spontaneous miscarriages is:",
+        "choices": [
+            "trisomy.",
+            "monosomy.",
+            "triploidy.",
+            "tetrasomy."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about medical genetics.\n\nThe most common chromosome abnormality in first trimester spontaneous miscarriages is:\n\nA. trisomy.\nB. monosomy.\nC. triploidy.\nD. tetrasomy.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 81
+    },
+    {
+        "subject": "miscellaneous",
+        "question": "The legal basis for the escalation of United States involvement in the Vietnam War was the",
+        "choices": [
+            "declaration of war by Congress",
+            "passage of the Gulf of Tonkin Resolution by Congress",
+            "United Nations resolution condemning the North Vietnamese invasion of South Vietnam",
+            "mutual defense provisions of the North Atlantic Treaty Organization (NATO)"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about miscellaneous.\n\nThe legal basis for the escalation of United States involvement in the Vietnam War was the\n\nA. declaration of war by Congress\nB. passage of the Gulf of Tonkin Resolution by Congress\nC. United Nations resolution condemning the North Vietnamese invasion of South Vietnam\nD. mutual defense provisions of the North Atlantic Treaty Organization (NATO)\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 82
+    },
+    {
+        "subject": "miscellaneous",
+        "question": "What rank entitles a general in the US Army to wear three stars?",
+        "choices": [
+            "brigadier general",
+            "corporal general",
+            "lieutenant general",
+            "major general"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about miscellaneous.\n\nWhat rank entitles a general in the US Army to wear three stars?\n\nA. brigadier general\nB. corporal general\nC. lieutenant general\nD. major general\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 83
+    },
+    {
+        "subject": "moral_disputes",
+        "question": " Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?",
+        "choices": [
+            "fortune-telling",
+            "blaming",
+            "dichotomous thinking",
+            "resentment"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about moral disputes.\n\n Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?\n\nA. fortune-telling\nB. blaming\nC. dichotomous thinking\nD. resentment\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 84
+    },
+    {
+        "subject": "moral_disputes",
+        "question": " Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?",
+        "choices": [
+            "Drug prohibition would be done for the benefit of others, not the benefit of those who wish to produce/sell drugs, so it is not paternalistic in an objectionable sense.",
+            "Drug prohibition would be paternalistic, but its consequences would be good enough to outweigh considerations about paternalism.",
+            "Drug prohibition would be targeted to adults, and one can only be paternalistic toward children.",
+            "Paternalism is always justified when the paternalistic practices truly are in the best interest of those affected."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about moral disputes.\n\n Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?\n\nA. Drug prohibition would be done for the benefit of others, not the benefit of those who wish to produce/sell drugs, so it is not paternalistic in an objectionable sense.\nB. Drug prohibition would be paternalistic, but its consequences would be good enough to outweigh considerations about paternalism.\nC. Drug prohibition would be targeted to adults, and one can only be paternalistic toward children.\nD. Paternalism is always justified when the paternalistic practices truly are in the best interest of those affected.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 85
+    },
+    {
+        "subject": "moral_scenarios",
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I ate broccoli, human liver, fava beans, with a nice chianti. Scenario 2 | I ate the yogurt in the break room because it had my coworker's name on it.",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about moral scenarios.\n\nFor which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I ate broccoli, human liver, fava beans, with a nice chianti. Scenario 2 | I ate the yogurt in the break room because it had my coworker's name on it.\n\nA. Wrong, Wrong\nB. Wrong, Not wrong\nC. Not wrong, Wrong\nD. Not wrong, Not wrong\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 86
+    },
+    {
+        "subject": "moral_scenarios",
+        "question": "For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I broke the glass ceiling on stockholder expectations. Scenario 2 | I called the cops on the man who hit my child",
+        "choices": [
+            "Wrong, Wrong",
+            "Wrong, Not wrong",
+            "Not wrong, Wrong",
+            "Not wrong, Not wrong"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about moral scenarios.\n\nFor which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I broke the glass ceiling on stockholder expectations. Scenario 2 | I called the cops on the man who hit my child\n\nA. Wrong, Wrong\nB. Wrong, Not wrong\nC. Not wrong, Wrong\nD. Not wrong, Not wrong\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 87
+    },
+    {
+        "subject": "nutrition",
+        "question": "Which of the following will increase in vitamin D deficiency?\n",
+        "choices": [
+            "The plasma concentration of prothrombin",
+            "The plasma concentration of preprothrombin",
+            "The plasma activity of alkaline phosphatase",
+            "The plasma activity of acid phosphatase"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about nutrition.\n\nWhich of the following will increase in vitamin D deficiency?\n\n\nA. The plasma concentration of prothrombin\nB. The plasma concentration of preprothrombin\nC. The plasma activity of alkaline phosphatase\nD. The plasma activity of acid phosphatase\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 88
+    },
+    {
+        "subject": "nutrition",
+        "question": "What difference will urbanisation make for hunger and malnutrition?\n",
+        "choices": [
+            "No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.",
+            "It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.",
+            "Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and so are much more vulnerable to food price increases.",
+            "Poor city folk eat mainly sorghum, millet, maize and root crops, so a lot more of those foods will need to be produced as the world urbanises."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about nutrition.\n\nWhat difference will urbanisation make for hunger and malnutrition?\n\n\nA. No significant difference; low-income urban and rural people face similar constraints in accessing food and consume similar diets in developing countries.\nB. It will reduce poverty and hunger because these are almost entirely concentrated in rural areas.\nC. Urban dwellers depend more than rural people on purchases to acquire food, have little opportunity to grow their own food, and so are much more vulnerable to food price increases.\nD. Poor city folk eat mainly sorghum, millet, maize and root crops, so a lot more of those foods will need to be produced as the world urbanises.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 89
+    },
+    {
+        "subject": "philosophy",
+        "question": "Bentham defines the fecundity of a pleasure or pain as:",
+        "choices": [
+            "its chance of occurring.",
+            "the degree to which it is felt.",
+            "its chance of being followed by sensations of the same kind.",
+            "how long it lasts."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about philosophy.\n\nBentham defines the fecundity of a pleasure or pain as:\n\nA. its chance of occurring.\nB. the degree to which it is felt.\nC. its chance of being followed by sensations of the same kind.\nD. how long it lasts.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 90
+    },
+    {
+        "subject": "philosophy",
+        "question": "According to Hume, reason:",
+        "choices": [
+            "should serve our passions.",
+            "should operate completely independently of our passions.",
+            "should be used to direct our passions.",
+            "should be used to extinguish our passions."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about philosophy.\n\nAccording to Hume, reason:\n\nA. should serve our passions.\nB. should operate completely independently of our passions.\nC. should be used to direct our passions.\nD. should be used to extinguish our passions.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 91
+    },
+    {
+        "subject": "prehistory",
+        "question": "What is the earliest form of writing in the world and where did it develop?",
+        "choices": [
+            "cuneiform, in Mesopotamia",
+            "hieroglyphics, in Egypt",
+            "clay-tablets, at Knossos",
+            "runes, at Stonehenge"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about prehistory.\n\nWhat is the earliest form of writing in the world and where did it develop?\n\nA. cuneiform, in Mesopotamia\nB. hieroglyphics, in Egypt\nC. clay-tablets, at Knossos\nD. runes, at Stonehenge\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 92
+    },
+    {
+        "subject": "prehistory",
+        "question": "Among the Inca, human sacrifice was preceded by:",
+        "choices": [
+            "ritual starvation, torture, and blood sacrifice.",
+            "elite-sponsored feasts in which captives of war were beheaded.",
+            "improved diet, the use of coca leaves, and consumption of maize beer.",
+            "communal feasts and the torture of captives to be sacrificed."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about prehistory.\n\nAmong the Inca, human sacrifice was preceded by:\n\nA. ritual starvation, torture, and blood sacrifice.\nB. elite-sponsored feasts in which captives of war were beheaded.\nC. improved diet, the use of coca leaves, and consumption of maize beer.\nD. communal feasts and the torture of captives to be sacrificed.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 93
+    },
+    {
+        "subject": "professional_accounting",
+        "question": "Which of the following matters does an auditor usually include in the engagement letter?",
+        "choices": [
+            "Arrangements regarding fees and billing.",
+            "Analytical procedures that the auditor plans to perform.",
+            "Indications of negative cash flows from operating activities.",
+            "Identification of working capital deficiencies."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional accounting.\n\nWhich of the following matters does an auditor usually include in the engagement letter?\n\nA. Arrangements regarding fees and billing.\nB. Analytical procedures that the auditor plans to perform.\nC. Indications of negative cash flows from operating activities.\nD. Identification of working capital deficiencies.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 94
+    },
+    {
+        "subject": "professional_accounting",
+        "question": "On day 1, Jackson, a merchant, mailed Sands a signed letter that contained an offer to sell Sands 500 electric fans at $10 per fan. The letter was received by Sands on day 3. The letter contained a promise not to revoke the offer but no expiration date. On day 4, Jackson mailed Sands a revocation of the offer to sell the fans. Sands received the revocation on day 6. On day 7, Sands mailed Jackson an acceptance of the offer. Jackson received the acceptance on day 9. Under the Sales Article of the UCC, was a contract formed?",
+        "choices": [
+            "No contract was formed because the offer failed to state an expiration date.",
+            "No contract was formed because Sands received the revocation of the offer before Sands accepted the offer",
+            "A contract was formed on the day Jackson received Sands’ acceptance",
+            "A contract was formed on the day Sands mailed the acceptance to Jackson"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional accounting.\n\nOn day 1, Jackson, a merchant, mailed Sands a signed letter that contained an offer to sell Sands 500 electric fans at $10 per fan. The letter was received by Sands on day 3. The letter contained a promise not to revoke the offer but no expiration date. On day 4, Jackson mailed Sands a revocation of the offer to sell the fans. Sands received the revocation on day 6. On day 7, Sands mailed Jackson an acceptance of the offer. Jackson received the acceptance on day 9. Under the Sales Article of the UCC, was a contract formed?\n\nA. No contract was formed because the offer failed to state an expiration date.\nB. No contract was formed because Sands received the revocation of the offer before Sands accepted the offer\nC. A contract was formed on the day Jackson received Sands’ acceptance\nD. A contract was formed on the day Sands mailed the acceptance to Jackson\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 95
+    },
+    {
+        "subject": "professional_law",
+        "question": "A state imposes a tax on nonresident photographers who operate photographic studios in the state at a rate of 2% of their state-derived income above $12,000. This income tax exempts taxable income earned outside of the state by photographers who live in the state. Moreover, resident-photographers of the state are not taxed on their in-state earned income. A photographer who operates a studio in the state but is a resident of another state, challenges the constitutionality of this tax. Which of the following provisions would furnish the most applicable basis for this constitutional challenge?",
+        "choices": [
+            "The equal protection clause of the Fourteenth Amendment.",
+            "The due process clause of the Fourteenth Amendment.",
+            "The commerce clause.",
+            "The privileges and immunities clause of ArticleIv."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional law.\n\nA state imposes a tax on nonresident photographers who operate photographic studios in the state at a rate of 2% of their state-derived income above $12,000. This income tax exempts taxable income earned outside of the state by photographers who live in the state. Moreover, resident-photographers of the state are not taxed on their in-state earned income. A photographer who operates a studio in the state but is a resident of another state, challenges the constitutionality of this tax. Which of the following provisions would furnish the most applicable basis for this constitutional challenge?\n\nA. The equal protection clause of the Fourteenth Amendment.\nB. The due process clause of the Fourteenth Amendment.\nC. The commerce clause.\nD. The privileges and immunities clause of ArticleIv.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 96
+    },
+    {
+        "subject": "professional_law",
+        "question": "A businessman living was an avid baseball fan who frequently traveled to a casino and placed wagers on baseball games. One October, his beloved baseball team was playing in the playoffs and he wanted to place a large bet on his team. He told one of his employees that he wanted to bet $10,000 on his team to win the championship, but that he did not have the time to travel to the casino to place the bet. He then told his employee that he wanted the employee to travel to the casino and place the bet for him. The businessman and the employee agreed that the employee would travel to the casino, place a $10,000 bet for the businessman and then immediately return. In exchange, the employee would be paid $500. The parties reduced this agreement to writing. After the agreement was signed, the businessman handed the employee $10,000 and a round-trip airline ticket. The businessman then told the employee that he would be paid $500 after the employee returned. The employee arrived the next day and immediately went to the casino. There he noticed that the marquis in the parking lot was unlit and covered in a banner that read, \"Casino Temporarily Closed Due to Renovations. \" Unable to reach the businessman by telephone, the employee placed the bet at another gaming establishment located next door to the casino. The following morning, the employee flew back and gave the betting receipt to the businessman. When the businessman saw that the bet had been made at another gaming establishment, he angrily told the employee, \"I purposely directed you to wager that $10,000 at the casino. Since you failed to follow my instructions, the deal's off. \" As a result, the businessman refused to pay the employee the $500. If the employee initiates suit for breach of contract, the court will most likely determine that placing the $10,000 wager at the other gaming establishment, rather than at the casino, constituted a",
+        "choices": [
+            "breach of contract.",
+            "modification.",
+            "constructive condition precedent that was substantially performed.",
+            "discharge by impossibility."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional law.\n\nA businessman living was an avid baseball fan who frequently traveled to a casino and placed wagers on baseball games. One October, his beloved baseball team was playing in the playoffs and he wanted to place a large bet on his team. He told one of his employees that he wanted to bet $10,000 on his team to win the championship, but that he did not have the time to travel to the casino to place the bet. He then told his employee that he wanted the employee to travel to the casino and place the bet for him. The businessman and the employee agreed that the employee would travel to the casino, place a $10,000 bet for the businessman and then immediately return. In exchange, the employee would be paid $500. The parties reduced this agreement to writing. After the agreement was signed, the businessman handed the employee $10,000 and a round-trip airline ticket. The businessman then told the employee that he would be paid $500 after the employee returned. The employee arrived the next day and immediately went to the casino. There he noticed that the marquis in the parking lot was unlit and covered in a banner that read, \"Casino Temporarily Closed Due to Renovations. \" Unable to reach the businessman by telephone, the employee placed the bet at another gaming establishment located next door to the casino. The following morning, the employee flew back and gave the betting receipt to the businessman. When the businessman saw that the bet had been made at another gaming establishment, he angrily told the employee, \"I purposely directed you to wager that $10,000 at the casino. Since you failed to follow my instructions, the deal's off. \" As a result, the businessman refused to pay the employee the $500. If the employee initiates suit for breach of contract, the court will most likely determine that placing the $10,000 wager at the other gaming establishment, rather than at the casino, constituted a\n\nA. breach of contract.\nB. modification.\nC. constructive condition precedent that was substantially performed.\nD. discharge by impossibility.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 97
+    },
+    {
+        "subject": "professional_medicine",
+        "question": "An 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eyes. He just returned from a weeklong summer camp that included hiking trips and swimming lessons in the camp-owned swimming pool. He has no history of major medical illness and receives no medications. He appears tired. His temperature is 39.4°C (102.9°F); other vital signs are within normal limits. Physical examination shows conjunctival injection and discharge and oropharyngeal erythema. The public health department reports an outbreak of similar symptoms among the other campers and camp volunteers. Which of the following is the most likely cause of this patient’s symptoms?",
+        "choices": [
+            "Adenovirus",
+            "Cytomegalovirus",
+            "Epstein-Barr virus",
+            "Influenza virus"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional medicine.\n\nAn 8-year-old boy is brought to the office by his mother because of a 3-day history of fever, sore throat, and itchy eyes. He just returned from a weeklong summer camp that included hiking trips and swimming lessons in the camp-owned swimming pool. He has no history of major medical illness and receives no medications. He appears tired. His temperature is 39.4°C (102.9°F); other vital signs are within normal limits. Physical examination shows conjunctival injection and discharge and oropharyngeal erythema. The public health department reports an outbreak of similar symptoms among the other campers and camp volunteers. Which of the following is the most likely cause of this patient’s symptoms?\n\nA. Adenovirus\nB. Cytomegalovirus\nC. Epstein-Barr virus\nD. Influenza virus\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 98
+    },
+    {
+        "subject": "professional_medicine",
+        "question": "A 15-year-old girl comes to the emergency department because, she says, \"something has been sticking out of my bottom since I had a bowel movement this morning.\" She has not had previous episodes, although for more than 1 year she has had occasional difficulty passing stools. She is not in pain but is afraid to move her bowels for fear that the problem will worsen. She tells you that she moved away from home more than a year ago and that her parents contribute nothing to her support. She has a 6-month-old child and lives with a 28-year-old female cousin. She has never been married and does not work or attend school. She has no other symptoms. In order to follow the correct procedure for treating a minor, which of the following is the most appropriate step prior to evaluating this patient's rectal problem?",
+        "choices": [
+            "Accept the girl's consent as sufficient",
+            "Obtain a court order permitting evaluation",
+            "Obtain the written consent of at least two licensed physicians",
+            "Obtain written consent from at least one of her parents"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional medicine.\n\nA 15-year-old girl comes to the emergency department because, she says, \"something has been sticking out of my bottom since I had a bowel movement this morning.\" She has not had previous episodes, although for more than 1 year she has had occasional difficulty passing stools. She is not in pain but is afraid to move her bowels for fear that the problem will worsen. She tells you that she moved away from home more than a year ago and that her parents contribute nothing to her support. She has a 6-month-old child and lives with a 28-year-old female cousin. She has never been married and does not work or attend school. She has no other symptoms. In order to follow the correct procedure for treating a minor, which of the following is the most appropriate step prior to evaluating this patient's rectal problem?\n\nA. Accept the girl's consent as sufficient\nB. Obtain a court order permitting evaluation\nC. Obtain the written consent of at least two licensed physicians\nD. Obtain written consent from at least one of her parents\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 99
+    },
+    {
+        "subject": "professional_psychology",
+        "question": "Which of the following assessment measures is not used to assess symptom validity or malingering?",
+        "choices": [
+            "Test of Memory Malingering",
+            "The Differential Aptitude Test–5",
+            "Recognition Memory Test",
+            "Personality Assessment Inventory"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional psychology.\n\nWhich of the following assessment measures is not used to assess symptom validity or malingering?\n\nA. Test of Memory Malingering\nB. The Differential Aptitude Test–5\nC. Recognition Memory Test\nD. Personality Assessment Inventory\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 100
+    },
+    {
+        "subject": "professional_psychology",
+        "question": "The first standardized measure of assessment was:",
+        "choices": [
+            "Stanford Binet",
+            "Binet–Simon Scale",
+            "Wechsler Adult Intelligence Scale",
+            "Raven’s Progressive Matrices"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about professional psychology.\n\nThe first standardized measure of assessment was:\n\nA. Stanford Binet\nB. Binet–Simon Scale\nC. Wechsler Adult Intelligence Scale\nD. Raven’s Progressive Matrices\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 101
+    },
+    {
+        "subject": "public_relations",
+        "question": "Which traditional news criterion would you expect to be most important in public relations messages distributed through the mass media?",
+        "choices": [
+            "Proximity",
+            "Timeliness",
+            "Prominence",
+            "Impact"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about public relations.\n\nWhich traditional news criterion would you expect to be most important in public relations messages distributed through the mass media?\n\nA. Proximity\nB. Timeliness\nC. Prominence\nD. Impact\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 102
+    },
+    {
+        "subject": "public_relations",
+        "question": "Which statement describes an idea from utilitarianism?",
+        "choices": [
+            "What is right and what is wrong are predetermined.",
+            "People should be treated as an end, not a means to an end.",
+            "The greatest good for the greatest number.",
+            "Those better off should give to people who are not as well off."
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about public relations.\n\nWhich statement describes an idea from utilitarianism?\n\nA. What is right and what is wrong are predetermined.\nB. People should be treated as an end, not a means to an end.\nC. The greatest good for the greatest number.\nD. Those better off should give to people who are not as well off.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 103
+    },
+    {
+        "subject": "security_studies",
+        "question": "Which of the following is applicable when considering the concept of security dilemmas in terms of societal identity?",
+        "choices": [
+            "For societal security dilemmas ambiguity can stem from two sides of nationalism; cultural (positive) and ethnic (negative). Ethnic (political) nationalism is often described as more malign and linked to state disintegration, whereas cultural nationalism is often seen as benign, working within existing state structures.",
+            "Clear distinctions between cultural nationalism and political nationalism are difficult to make: cultural nationalism may sometimes be compelled to change itself from a solely cultural movement into a political movement and be conflated with political nationalism.",
+            "Dominant actors may exaggerate threat perceptions with the intent of mobilizing political support which can result in action reaction processes.",
+            "All of these options."
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about security studies.\n\nWhich of the following is applicable when considering the concept of security dilemmas in terms of societal identity?\n\nA. For societal security dilemmas ambiguity can stem from two sides of nationalism; cultural (positive) and ethnic (negative). Ethnic (political) nationalism is often described as more malign and linked to state disintegration, whereas cultural nationalism is often seen as benign, working within existing state structures.\nB. Clear distinctions between cultural nationalism and political nationalism are difficult to make: cultural nationalism may sometimes be compelled to change itself from a solely cultural movement into a political movement and be conflated with political nationalism.\nC. Dominant actors may exaggerate threat perceptions with the intent of mobilizing political support which can result in action reaction processes.\nD. All of these options.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 104
+    },
+    {
+        "subject": "security_studies",
+        "question": "How has coercive diplomacy featured in contemporary security studies?",
+        "choices": [
+            "Compellence and coercion through diplomacy are linked with the 'pre-emptive use of force'.",
+            "Coercive diplomacy is a softly-softly approach to international power bargaining, that has been side-lined in recent years.",
+            "Deterrence as a strategy has dominated contemporary instances of coercive diplomacy.",
+            "All of these options."
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about security studies.\n\nHow has coercive diplomacy featured in contemporary security studies?\n\nA. Compellence and coercion through diplomacy are linked with the 'pre-emptive use of force'.\nB. Coercive diplomacy is a softly-softly approach to international power bargaining, that has been side-lined in recent years.\nC. Deterrence as a strategy has dominated contemporary instances of coercive diplomacy.\nD. All of these options.\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 105
+    },
+    {
+        "subject": "sociology",
+        "question": "Queer Theory makes the claim that:",
+        "choices": [
+            "heterosexuality is the normal and most desirable way to be",
+            "the sexual categories and discourses we use are based upon true, underlying biological differences",
+            "deviant forms of masculinity are seen as more threatening to the gender order than deviant forms of femininity",
+            "all sexualities are pluralistic, fragmented and frequently reconstructed"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about sociology.\n\nQueer Theory makes the claim that:\n\nA. heterosexuality is the normal and most desirable way to be\nB. the sexual categories and discourses we use are based upon true, underlying biological differences\nC. deviant forms of masculinity are seen as more threatening to the gender order than deviant forms of femininity\nD. all sexualities are pluralistic, fragmented and frequently reconstructed\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 106
+    },
+    {
+        "subject": "sociology",
+        "question": "A survey should avoid asking:",
+        "choices": [
+            "fixed-choice questions",
+            "short questions",
+            "leading questions",
+            "funnelled questions"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about sociology.\n\nA survey should avoid asking:\n\nA. fixed-choice questions\nB. short questions\nC. leading questions\nD. funnelled questions\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 107
+    },
+    {
+        "subject": "us_foreign_policy",
+        "question": "What was unique about the NATO intervention in Kosovo?",
+        "choices": [
+            "It was the first time the US became involved in the Balkans",
+            "It was the first time NATO used military force",
+            "It was the first war won by airpower alone",
+            "It was the first war to employ 'smart weapons'"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about us foreign policy.\n\nWhat was unique about the NATO intervention in Kosovo?\n\nA. It was the first time the US became involved in the Balkans\nB. It was the first time NATO used military force\nC. It was the first war won by airpower alone\nD. It was the first war to employ 'smart weapons'\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 108
+    },
+    {
+        "subject": "us_foreign_policy",
+        "question": "What was the Marshall Plan?",
+        "choices": [
+            "A plan that provided economic assistance to rebuild Europe.",
+            "A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats",
+            "A plan that provided Europe with military assistance to counter the Soviet threat",
+            "The plan designed to stop communism in Asia"
+        ],
+        "answer": 0,
+        "prompt": "Help me choose the correct option for the following multiple choice question about us foreign policy.\n\nWhat was the Marshall Plan?\n\nA. A plan that provided economic assistance to rebuild Europe.\nB. A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats\nC. A plan that provided Europe with military assistance to counter the Soviet threat\nD. The plan designed to stop communism in Asia\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "A",
+        "idx": 109
+    },
+    {
+        "subject": "virology",
+        "question": "The noroviruses typically cause which of the following?",
+        "choices": [
+            "Diarrhoea",
+            "Rash",
+            "Projectile vomiting and diarrhoea",
+            "Disease of the central nervous system"
+        ],
+        "answer": 2,
+        "prompt": "Help me choose the correct option for the following multiple choice question about virology.\n\nThe noroviruses typically cause which of the following?\n\nA. Diarrhoea\nB. Rash\nC. Projectile vomiting and diarrhoea\nD. Disease of the central nervous system\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "C",
+        "idx": 110
+    },
+    {
+        "subject": "virology",
+        "question": "The most important element of ethical research on human subjects is:",
+        "choices": [
+            "Beneficence",
+            "Justice",
+            "A methodologically sound study design",
+            "Informed consent"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about virology.\n\nThe most important element of ethical research on human subjects is:\n\nA. Beneficence\nB. Justice\nC. A methodologically sound study design\nD. Informed consent\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 111
+    },
+    {
+        "subject": "world_religions",
+        "question": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+        "choices": [
+            "Buddhism",
+            "Daoism",
+            "Confucianism",
+            "Shamanism"
+        ],
+        "answer": 1,
+        "prompt": "Help me choose the correct option for the following multiple choice question about world religions.\n\nTo which tradition do the anti-Han rebel group known as the Celestial Masters belong?\n\nA. Buddhism\nB. Daoism\nC. Confucianism\nD. Shamanism\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "B",
+        "idx": 112
+    },
+    {
+        "subject": "world_religions",
+        "question": "Which of the following terms denote the Japanese art of flower arranging?",
+        "choices": [
+            "Zazen",
+            "Tariki",
+            "Kami",
+            "Ikebana"
+        ],
+        "answer": 3,
+        "prompt": "Help me choose the correct option for the following multiple choice question about world religions.\n\nWhich of the following terms denote the Japanese art of flower arranging?\n\nA. Zazen\nB. Tariki\nC. Kami\nD. Ikebana\n\n Please read the question and each option carefully, think step by step, and conclude with 'Therefore, the answer is' followed by A/B/C/D.",
+        "correct answer": "D",
+        "idx": 113
+    }
+]
